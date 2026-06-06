@@ -1,0 +1,1001 @@
+PatientID,AssessmentDate,Age,Gender,BMI,SmokingStatus,AlcoholConsumption,ExerciseFrequency,DietQuality,SleepQuality,StressLevel,SystolicBP,DiastolicBP,Cholesterol,BloodSugar,ExistingCondition,FamilyHistory,RiskScore,RiskCategory
+PAT00328,2021-04-01,21,Female,28.5,Former,Light,Rare,Poor,Poor,Very High,94,61,173,125,Diabetes,Yes,10,High
+PAT00288,2022-03-25,71,Male,25.3,Current - Heavy,Moderate,None,Fair,Excellent,High,125,69,205,156,None,Yes,13,Very High
+PAT00195,2021-01-31,63,Female,29.2,Current - Light,None,Regular,Poor,Excellent,Low,160,78,242,119,Arthritis,Yes,14,Very High
+PAT00024,2022-07-22,55,Male,33.6,Former,None,Regular,Good,Excellent,High,110,83,240,123,Arthritis,No,7,Moderate
+PAT00360,2020-10-19,39,Male,24.8,Former,Heavy,Regular,Good,Fair,High,97,74,158,150,Heart Disease,No,6,Moderate
+PAT00034,2022-05-14,58,Male,24.8,Current - Heavy,Heavy,Regular,Fair,Good,Moderate,121,107,293,137,Arthritis,No,11,High
+PAT00460,2024-06-23,64,Male,33.9,Former,Heavy,None,Poor,Poor,Moderate,170,70,258,86,Heart Disease,No,15,Very High
+PAT00306,2025-04-01,85,Female,29.8,Never,None,Intensive,Good,Good,Low,127,87,190,186,None,No,5,Moderate
+PAT00498,2025-08-12,40,Male,23.7,Current - Light,Light,Rare,Good,Fair,Low,166,80,275,74,None,No,7,Moderate
+PAT00450,2023-06-13,48,Male,28.7,Former,None,None,Excellent,Poor,Moderate,106,102,271,112,Hypertension,No,9,High
+PAT00494,2022-05-17,43,Female,23.7,Current - Heavy,Moderate,Regular,Excellent,Poor,Moderate,118,64,236,75,Asthma,Yes,6,Moderate
+PAT00302,2022-06-21,18,Male,23.7,Never,Light,None,Poor,Good,Low,155,75,221,194,Diabetes,Yes,11,High
+PAT00371,2025-04-20,49,Female,27.2,Current - Heavy,Light,None,Poor,Excellent,High,144,86,269,83,Arthritis,Yes,17,Very High
+PAT00032,2024-07-07,61,Male,16.4,Former,Light,Rare,Excellent,Fair,Very High,113,77,268,133,None,No,10,High
+PAT00414,2021-02-05,24,Male,17.4,Never,Light,Rare,Excellent,Excellent,Very High,117,115,252,85,Diabetes,No,7,Moderate
+PAT00002,2024-05-18,51,Female,23.2,Current - Light,Heavy,Intensive,Excellent,Fair,Moderate,127,73,164,85,Arthritis,No,5,Moderate
+PAT00030,2020-07-24,79,Male,20.9,Never,None,Rare,Poor,Poor,Moderate,141,67,295,133,Asthma,Yes,14,Very High
+PAT00318,2020-12-01,71,Female,27.6,Current - Light,Light,Moderate,Fair,Good,Very High,106,102,226,187,Hypertension,Yes,13,Very High
+PAT00005,2025-02-20,30,Male,21.5,Former,Moderate,Rare,Good,Poor,Moderate,137,78,190,182,Asthma,No,6,Moderate
+PAT00314,2025-12-06,19,Female,18.9,Never,Light,Moderate,Poor,Poor,Moderate,124,78,203,157,Diabetes,No,6,Moderate
+PAT00259,2025-06-24,50,Male,33.3,Never,Heavy,Moderate,Poor,Poor,High,106,100,217,111,Arthritis,No,8,High
+PAT00283,2024-10-17,19,Male,24.9,Never,Light,Intensive,Poor,Good,Moderate,145,68,160,148,Hypertension,Yes,9,High
+PAT00461,2024-01-05,44,Male,26.3,Never,Moderate,Intensive,Excellent,Fair,Moderate,110,111,195,175,None,Yes,4,Moderate
+PAT00378,2023-09-22,70,Male,18.9,Current - Light,Light,None,Excellent,Poor,Very High,118,72,267,159,Hypertension,Yes,15,Very High
+PAT00115,2020-04-06,42,Female,23.3,Current - Light,Moderate,None,Good,Good,Very High,176,113,287,154,None,Yes,13,Very High
+PAT00450,2022-12-05,40,Female,26.6,Never,None,Intensive,Excellent,Good,High,145,98,280,99,Heart Disease,Yes,9,High
+PAT00131,2020-06-30,73,Male,20.2,Former,Moderate,Regular,Poor,Good,High,174,114,181,146,Asthma,No,12,High
+PAT00342,2024-07-30,59,Female,27.9,Current - Light,Light,Rare,Excellent,Excellent,Moderate,168,96,227,173,Asthma,Yes,12,High
+PAT00156,2023-03-21,44,Female,23.0,Current - Light,Heavy,Regular,Excellent,Fair,Very High,111,102,171,142,Asthma,No,8,High
+PAT00048,2022-08-20,57,Male,24.5,Former,Light,None,Poor,Fair,Very High,168,114,168,186,Heart Disease,Yes,15,Very High
+PAT00368,2024-04-21,81,Female,23.0,Former,Light,None,Poor,Excellent,Moderate,112,111,282,188,None,Yes,12,High
+PAT00470,2021-05-12,76,Male,35.3,Current - Heavy,Moderate,Regular,Excellent,Excellent,Moderate,150,88,216,133,Arthritis,No,13,Very High
+PAT00393,2025-11-05,80,Male,25.9,Current - Light,Heavy,None,Good,Fair,High,132,80,288,90,Diabetes,Yes,13,Very High
+PAT00119,2024-04-17,37,Male,20.7,Never,Heavy,Regular,Good,Excellent,Very High,97,73,257,169,Asthma,Yes,9,High
+PAT00439,2024-04-07,79,Male,30.1,Current - Light,Moderate,Regular,Excellent,Fair,Very High,118,77,261,194,None,No,12,High
+PAT00173,2024-07-14,39,Female,19.9,Former,None,Regular,Poor,Poor,Very High,107,115,268,116,None,No,7,Moderate
+PAT00195,2023-09-02,45,Female,27.0,Current - Light,Moderate,Regular,Good,Excellent,High,100,90,154,83,Hypertension,Yes,7,Moderate
+PAT00333,2020-10-08,23,Male,16.2,Former,Light,None,Fair,Fair,Moderate,150,102,179,125,Heart Disease,No,8,High
+PAT00393,2024-02-19,39,Male,19.4,Former,Moderate,None,Poor,Good,Very High,140,120,200,89,Asthma,Yes,10,High
+PAT00053,2023-05-20,33,Male,27.0,Current - Light,Heavy,Moderate,Poor,Good,Low,143,112,275,97,Heart Disease,No,11,High
+PAT00326,2025-02-26,37,Female,29.7,Former,Moderate,Intensive,Excellent,Excellent,Very High,165,77,232,132,None,No,8,High
+PAT00452,2025-01-20,49,Female,26.9,Current - Heavy,Moderate,None,Excellent,Good,Moderate,152,73,240,136,Hypertension,No,13,Very High
+PAT00451,2023-02-05,19,Male,25.4,Never,Light,Regular,Excellent,Fair,Very High,172,105,275,184,None,Yes,10,High
+PAT00151,2022-06-26,69,Male,24.5,Current - Light,Moderate,Regular,Good,Excellent,High,135,104,266,139,Hypertension,No,11,High
+PAT00119,2021-05-09,42,Female,18.6,Never,Light,Rare,Fair,Excellent,High,165,108,284,142,None,Yes,10,High
+PAT00152,2022-07-20,64,Male,22.4,Current - Light,None,Intensive,Fair,Good,Low,96,95,224,102,Arthritis,No,7,Moderate
+PAT00053,2020-02-20,54,Female,23.7,Current - Heavy,Heavy,Moderate,Fair,Poor,High,151,67,166,172,Heart Disease,Yes,13,Very High
+PAT00296,2020-08-07,37,Male,31.3,Current - Light,None,Rare,Poor,Excellent,Moderate,156,84,265,183,Hypertension,No,15,Very High
+PAT00157,2020-09-03,30,Male,27.7,Former,Moderate,None,Fair,Fair,Moderate,160,64,190,70,Heart Disease,No,9,High
+PAT00353,2025-04-08,55,Male,17.2,Former,Moderate,Moderate,Excellent,Poor,Moderate,123,110,300,120,Heart Disease,Yes,7,Moderate
+PAT00279,2022-07-09,37,Female,27.6,Former,None,None,Fair,Good,High,146,67,269,147,Arthritis,No,14,Very High
+PAT00483,2023-01-20,82,Female,24.1,Current - Heavy,None,Intensive,Poor,Excellent,High,167,76,156,93,Diabetes,Yes,13,Very High
+PAT00392,2023-01-08,23,Male,22.6,Current - Heavy,Heavy,Moderate,Fair,Excellent,Very High,101,90,239,174,Hypertension,No,10,High
+PAT00344,2021-03-04,38,Female,29.1,Current - Heavy,Heavy,Moderate,Excellent,Poor,Very High,101,80,214,152,None,No,8,High
+PAT00443,2025-10-08,18,Female,31.2,Current - Heavy,None,Rare,Good,Excellent,Very High,96,73,218,103,Hypertension,No,10,High
+PAT00451,2025-06-08,33,Male,30.7,Former,Light,Moderate,Poor,Excellent,Low,118,113,179,188,None,Yes,8,High
+PAT00256,2023-04-10,83,Female,21.8,Current - Heavy,Heavy,Regular,Fair,Excellent,Moderate,139,72,280,104,None,No,8,High
+PAT00396,2024-08-26,61,Female,24.5,Never,Moderate,Moderate,Excellent,Fair,Very High,158,90,238,155,Asthma,No,10,High
+PAT00234,2023-08-11,42,Male,27.7,Current - Heavy,Light,Regular,Poor,Good,Very High,180,118,247,168,Arthritis,Yes,17,Very High
+PAT00254,2020-05-31,34,Female,30.9,Never,Heavy,None,Excellent,Poor,Moderate,142,115,189,89,Heart Disease,No,8,High
+PAT00174,2024-06-16,28,Female,23.6,Current - Heavy,Moderate,Regular,Poor,Poor,Moderate,170,103,223,128,Arthritis,Yes,12,High
+PAT00223,2021-02-07,30,Female,25.1,Former,Moderate,None,Poor,Good,Low,127,82,245,180,Diabetes,Yes,13,Very High
+PAT00272,2024-08-14,41,Male,20.5,Former,None,Intensive,Excellent,Fair,Very High,164,69,209,188,Arthritis,No,9,High
+PAT00236,2022-11-11,19,Female,20.0,Current - Light,Light,None,Excellent,Good,High,171,87,214,186,Hypertension,Yes,12,High
+PAT00197,2025-06-02,31,Male,30.1,Current - Heavy,Moderate,Intensive,Good,Good,Low,174,85,220,72,Asthma,Yes,10,High
+PAT00467,2025-07-27,54,Male,32.8,Current - Light,Light,Rare,Good,Fair,Low,170,101,160,149,Heart Disease,Yes,13,Very High
+PAT00297,2024-02-03,34,Male,25.6,Current - Light,Moderate,Regular,Fair,Fair,Moderate,159,116,243,198,Hypertension,Yes,13,Very High
+PAT00132,2025-05-27,55,Female,31.0,Never,Heavy,None,Fair,Fair,Very High,161,83,173,171,None,No,12,High
+PAT00275,2021-05-21,76,Female,27.8,Current - Light,Heavy,Moderate,Poor,Fair,Very High,93,99,293,153,Asthma,Yes,16,Very High
+PAT00332,2020-09-15,77,Female,22.8,Current - Heavy,None,Rare,Poor,Poor,High,153,67,174,130,Asthma,Yes,16,Very High
+PAT00199,2025-02-01,65,Female,27.8,Former,Heavy,None,Excellent,Excellent,High,94,104,244,125,Heart Disease,No,11,High
+PAT00487,2022-08-25,64,Male,33.7,Current - Light,Moderate,None,Excellent,Good,Moderate,105,120,266,93,Arthritis,Yes,13,Very High
+PAT00329,2020-03-28,24,Female,25.8,Former,Light,Intensive,Fair,Poor,Moderate,165,73,209,154,Diabetes,Yes,10,High
+PAT00142,2021-08-15,34,Female,33.8,Former,None,None,Fair,Poor,High,120,97,232,74,Diabetes,No,9,High
+PAT00027,2021-06-03,71,Male,15.0,Never,Heavy,Regular,Good,Poor,Very High,154,74,161,147,Heart Disease,Yes,11,High
+PAT00032,2025-05-15,69,Female,30.1,Never,Heavy,Regular,Poor,Poor,High,167,69,166,102,Hypertension,No,11,High
+PAT00196,2025-12-13,55,Female,26.4,Current - Heavy,None,None,Fair,Excellent,Very High,119,86,236,186,Heart Disease,No,14,Very High
+PAT00374,2021-01-24,58,Female,24.5,Current - Light,Moderate,Moderate,Fair,Excellent,Low,101,113,171,93,Heart Disease,Yes,7,Moderate
+PAT00382,2024-03-06,34,Male,26.5,Current - Light,None,Regular,Good,Excellent,Low,126,98,229,160,None,Yes,6,Moderate
+PAT00080,2025-05-29,46,Male,16.1,Current - Light,Moderate,None,Good,Fair,Very High,161,109,292,76,Asthma,No,13,Very High
+PAT00015,2022-01-08,52,Female,24.9,Current - Light,Moderate,None,Fair,Fair,Very High,98,69,157,93,Arthritis,Yes,11,High
+PAT00193,2024-09-15,76,Female,27.8,Former,Moderate,Moderate,Good,Poor,Low,109,70,162,90,Hypertension,No,6,Moderate
+PAT00339,2024-10-02,80,Female,33.4,Current - Heavy,Moderate,Rare,Poor,Good,Very High,104,78,274,148,None,Yes,17,Very High
+PAT00203,2020-08-12,18,Male,23.4,Current - Light,Light,Rare,Good,Good,High,105,60,277,180,Diabetes,Yes,11,High
+PAT00195,2025-12-21,47,Female,22.0,Never,Heavy,None,Excellent,Poor,Very High,99,115,230,179,Asthma,No,9,High
+PAT00364,2024-09-06,55,Male,23.5,Current - Heavy,None,Moderate,Fair,Excellent,High,101,87,177,132,Heart Disease,No,10,High
+PAT00269,2020-11-18,68,Female,30.6,Current - Light,Light,Moderate,Fair,Poor,Low,157,92,199,159,Hypertension,Yes,14,Very High
+PAT00121,2021-02-25,36,Female,27.6,Former,Light,Intensive,Fair,Poor,Moderate,170,91,268,184,Arthritis,No,11,High
+PAT00443,2023-07-18,37,Female,23.4,Never,Heavy,Regular,Good,Good,Low,135,92,168,149,Heart Disease,No,4,Moderate
+PAT00020,2020-08-21,65,Female,28.6,Never,None,Intensive,Excellent,Excellent,Low,147,118,296,118,Hypertension,No,9,High
+PAT00257,2021-09-09,25,Female,26.5,Never,Moderate,None,Fair,Poor,Moderate,180,88,262,110,Hypertension,No,10,High
+PAT00470,2023-03-04,67,Female,30.8,Current - Light,None,Moderate,Poor,Good,Low,161,103,248,142,Hypertension,Yes,17,Very High
+PAT00171,2020-11-29,36,Female,22.5,Current - Light,Heavy,Rare,Poor,Good,Very High,172,110,234,102,Arthritis,Yes,12,High
+PAT00331,2024-09-30,83,Female,24.4,Never,Moderate,Moderate,Fair,Fair,High,152,72,207,105,Diabetes,Yes,9,High
+PAT00152,2021-02-18,82,Male,24.0,Current - Light,Light,Intensive,Excellent,Fair,Moderate,113,113,192,182,None,No,6,Moderate
+PAT00187,2022-08-30,74,Female,18.7,Current - Heavy,Light,Intensive,Fair,Good,Very High,114,83,296,182,Heart Disease,No,14,Very High
+PAT00399,2024-04-13,82,Female,27.5,Former,Light,Intensive,Fair,Good,Low,172,90,245,96,Arthritis,Yes,12,High
+PAT00146,2020-12-09,38,Female,27.3,Current - Heavy,Light,Regular,Poor,Fair,Very High,134,119,156,176,None,No,10,High
+PAT00258,2024-03-11,48,Female,26.0,Never,Moderate,Rare,Poor,Good,Low,173,81,187,105,None,No,7,Moderate
+PAT00470,2025-04-19,35,Female,24.8,Current - Heavy,None,None,Poor,Good,Moderate,109,95,285,178,None,No,11,High
+PAT00122,2023-05-18,33,Male,18.9,Former,Heavy,Intensive,Excellent,Poor,Low,153,98,287,74,Arthritis,Yes,8,High
+PAT00368,2021-08-11,55,Female,23.9,Never,Moderate,Rare,Excellent,Fair,Low,157,83,167,199,Asthma,Yes,9,High
+PAT00200,2025-04-09,23,Female,24.3,Current - Light,Moderate,None,Good,Poor,High,120,106,176,155,Diabetes,Yes,10,High
+PAT00181,2023-10-18,40,Female,22.0,Current - Heavy,Light,Rare,Poor,Excellent,Low,127,72,161,121,None,No,6,Moderate
+PAT00478,2023-06-24,83,Female,25.2,Current - Heavy,Moderate,None,Fair,Good,High,96,115,234,139,None,No,12,High
+PAT00224,2024-06-26,74,Female,28.0,Current - Light,Light,Regular,Excellent,Good,High,100,106,258,90,Heart Disease,Yes,11,High
+PAT00280,2023-04-18,59,Male,35.4,Never,Moderate,Moderate,Good,Excellent,Very High,111,104,263,159,Heart Disease,Yes,12,High
+PAT00373,2023-12-15,73,Female,26.9,Never,None,Regular,Good,Fair,Low,108,114,262,78,Diabetes,Yes,8,High
+PAT00121,2024-02-09,64,Female,27.3,Never,Light,Regular,Good,Good,Very High,99,96,185,163,Heart Disease,No,9,High
+PAT00333,2023-02-15,49,Male,25.6,Never,Light,Regular,Excellent,Poor,High,123,105,264,124,Asthma,No,7,Moderate
+PAT00356,2025-07-04,43,Male,16.4,Former,None,Regular,Fair,Excellent,Low,177,114,231,158,Arthritis,Yes,9,High
+PAT00282,2023-04-04,56,Male,25.9,Former,Moderate,Intensive,Fair,Poor,Moderate,107,75,276,76,Hypertension,No,8,High
+PAT00240,2021-06-15,29,Male,26.3,Current - Light,Heavy,Regular,Excellent,Excellent,Low,106,80,168,185,Heart Disease,No,7,Moderate
+PAT00066,2022-01-15,34,Female,38.3,Never,None,Intensive,Fair,Good,Moderate,110,80,207,158,Asthma,No,7,Moderate
+PAT00434,2020-11-19,50,Male,25.0,Current - Light,Light,Moderate,Poor,Fair,Moderate,111,102,236,80,None,Yes,6,Moderate
+PAT00024,2022-12-20,44,Female,27.5,Never,Heavy,Intensive,Good,Good,Very High,121,111,253,146,Heart Disease,Yes,10,High
+PAT00353,2020-09-02,38,Female,25.8,Current - Heavy,Heavy,Regular,Fair,Good,Moderate,130,115,231,158,Heart Disease,Yes,10,High
+PAT00390,2024-02-26,83,Male,20.2,Current - Light,Light,Regular,Poor,Good,Very High,121,69,174,82,Hypertension,No,10,High
+PAT00443,2024-09-08,49,Male,31.7,Current - Light,Moderate,Rare,Fair,Excellent,Very High,153,116,228,197,None,Yes,14,Very High
+PAT00484,2024-05-29,82,Female,29.8,Former,Light,Intensive,Good,Poor,Low,126,91,270,143,Asthma,Yes,11,High
+PAT00434,2021-03-16,73,Male,30.0,Current - Light,Moderate,Regular,Good,Poor,Very High,96,96,293,119,Hypertension,No,11,High
+PAT00038,2024-05-01,82,Female,21.5,Current - Light,None,Rare,Poor,Excellent,High,133,95,243,106,Diabetes,No,12,High
+PAT00257,2020-06-13,23,Male,33.0,Former,Moderate,Regular,Excellent,Fair,Moderate,131,119,231,111,Heart Disease,No,5,Moderate
+PAT00304,2023-10-09,82,Female,19.0,Current - Light,Heavy,None,Good,Good,Low,143,97,228,76,Asthma,No,10,High
+PAT00136,2022-07-21,24,Female,28.9,Former,Heavy,Rare,Fair,Poor,Low,114,61,262,150,Heart Disease,Yes,11,High
+PAT00212,2022-04-15,70,Female,37.0,Never,Light,Intensive,Fair,Good,Very High,157,84,230,114,Heart Disease,No,11,High
+PAT00280,2023-12-22,51,Female,21.0,Former,Light,Moderate,Good,Fair,High,126,105,203,195,Hypertension,No,7,Moderate
+PAT00179,2023-01-25,54,Male,23.2,Current - Heavy,Heavy,Moderate,Fair,Good,Low,126,105,170,158,Heart Disease,No,9,High
+PAT00383,2025-05-16,45,Male,26.5,Current - Light,Moderate,Rare,Poor,Fair,Moderate,96,102,285,127,Arthritis,Yes,13,Very High
+PAT00027,2021-02-14,70,Female,23.5,Current - Heavy,None,Rare,Poor,Fair,Very High,173,119,271,192,Arthritis,Yes,19,Very High
+PAT00388,2023-03-22,59,Female,18.2,Never,None,Intensive,Fair,Poor,Moderate,143,116,195,79,Heart Disease,No,6,Moderate
+PAT00096,2023-03-31,22,Male,26.3,Current - Light,None,Moderate,Good,Excellent,Very High,107,114,279,189,Hypertension,Yes,12,High
+PAT00415,2021-04-06,60,Male,20.7,Current - Heavy,Moderate,Rare,Poor,Good,High,162,103,199,114,Asthma,No,12,High
+PAT00424,2024-10-17,83,Female,28.4,Never,Heavy,None,Fair,Fair,Very High,131,119,213,71,Hypertension,No,10,High
+PAT00121,2025-01-03,52,Female,21.4,Current - Light,None,Moderate,Good,Fair,Low,175,67,269,148,Diabetes,No,11,High
+PAT00352,2025-08-20,57,Male,33.7,Current - Light,Moderate,Intensive,Fair,Fair,Moderate,151,69,266,165,Heart Disease,No,14,Very High
+PAT00388,2022-06-13,49,Male,22.1,Current - Heavy,Moderate,None,Poor,Poor,Moderate,163,94,188,112,Hypertension,No,12,High
+PAT00060,2022-04-21,80,Male,24.4,Current - Heavy,None,Regular,Fair,Excellent,Very High,162,63,293,188,Arthritis,No,16,Very High
+PAT00371,2020-03-30,68,Female,30.1,Never,Light,Intensive,Poor,Poor,Very High,134,104,166,85,None,No,8,High
+PAT00017,2023-03-21,70,Male,19.8,Former,Heavy,Moderate,Excellent,Excellent,Very High,138,65,288,104,Arthritis,No,9,High
+PAT00061,2022-01-01,68,Male,27.1,Former,None,None,Good,Excellent,Very High,158,84,208,133,Heart Disease,No,14,Very High
+PAT00080,2023-02-03,42,Male,32.5,Never,Heavy,Intensive,Poor,Fair,Moderate,98,66,158,184,Asthma,Yes,9,High
+PAT00126,2020-06-30,69,Female,18.0,Former,Light,None,Fair,Good,Moderate,163,80,297,152,Diabetes,No,14,Very High
+PAT00449,2021-08-09,84,Male,26.9,Current - Heavy,Moderate,Moderate,Poor,Fair,Very High,161,91,162,158,Arthritis,No,16,Very High
+PAT00403,2025-11-18,58,Female,27.3,Current - Heavy,Light,Moderate,Excellent,Fair,Very High,120,114,207,146,Arthritis,Yes,12,High
+PAT00413,2025-03-11,25,Female,29.9,Current - Heavy,Light,Regular,Fair,Good,Moderate,132,101,170,185,Hypertension,Yes,10,High
+PAT00275,2022-02-19,24,Female,19.8,Current - Heavy,None,None,Fair,Fair,Very High,116,115,235,147,None,Yes,11,High
+PAT00480,2022-02-17,33,Female,19.4,Former,Light,Regular,Fair,Good,High,138,89,286,161,Hypertension,No,9,High
+PAT00185,2025-10-01,81,Female,28.6,Never,Heavy,Moderate,Fair,Good,High,142,62,294,126,Arthritis,Yes,12,High
+PAT00009,2022-12-04,71,Female,27.5,Former,Light,Moderate,Fair,Excellent,Moderate,153,95,236,135,Heart Disease,No,11,High
+PAT00236,2021-11-20,63,Male,27.3,Former,Heavy,Rare,Poor,Poor,Low,175,63,151,175,Diabetes,Yes,14,Very High
+PAT00035,2021-09-10,19,Male,27.7,Current - Heavy,Moderate,None,Excellent,Excellent,Low,90,94,291,175,None,Yes,11,High
+PAT00272,2023-01-30,54,Male,22.6,Current - Heavy,Light,None,Poor,Fair,Moderate,114,99,284,134,Hypertension,No,14,Very High
+PAT00408,2024-06-13,28,Female,27.2,Current - Heavy,Heavy,Intensive,Fair,Fair,High,177,112,170,78,None,No,8,High
+PAT00195,2024-03-24,78,Male,27.5,Never,Light,None,Excellent,Excellent,High,162,114,174,80,Diabetes,Yes,11,High
+PAT00462,2025-05-01,52,Male,22.4,Never,Moderate,Intensive,Poor,Fair,High,92,73,300,106,Arthritis,No,8,High
+PAT00476,2020-11-11,56,Male,35.3,Former,Heavy,Intensive,Good,Excellent,Moderate,178,106,170,198,Arthritis,No,10,High
+PAT00028,2021-02-04,73,Male,28.4,Never,Moderate,Intensive,Excellent,Good,Low,171,77,265,195,Diabetes,No,11,High
+PAT00284,2024-03-17,73,Male,20.0,Current - Heavy,None,Intensive,Good,Fair,Low,100,77,189,167,Arthritis,Yes,10,High
+PAT00379,2024-05-14,58,Female,29.3,Never,None,None,Good,Excellent,High,124,66,183,92,Diabetes,No,7,Moderate
+PAT00230,2025-09-29,70,Male,21.1,Never,None,Moderate,Poor,Good,Very High,91,78,255,169,None,Yes,11,High
+PAT00293,2025-11-04,39,Female,29.9,Former,Light,Moderate,Good,Good,Very High,108,64,192,181,Hypertension,No,8,High
+PAT00154,2025-06-06,27,Female,31.8,Current - Light,Light,Regular,Fair,Excellent,Low,107,79,151,171,Hypertension,No,9,High
+PAT00412,2023-09-11,74,Female,21.9,Current - Heavy,Light,Moderate,Good,Fair,Very High,130,71,251,151,Hypertension,No,13,Very High
+PAT00496,2022-09-19,59,Female,30.8,Current - Light,Heavy,Moderate,Poor,Fair,Moderate,177,109,290,76,Arthritis,No,13,Very High
+PAT00483,2022-05-08,74,Female,28.1,Never,Heavy,Regular,Fair,Good,Moderate,122,102,189,178,Heart Disease,Yes,9,High
+PAT00230,2025-05-16,69,Female,30.1,Never,Moderate,Intensive,Poor,Poor,Moderate,174,102,240,112,Arthritis,Yes,11,High
+PAT00289,2024-06-24,60,Female,35.5,Never,None,None,Good,Fair,Moderate,147,83,250,188,Arthritis,Yes,14,Very High
+PAT00177,2020-04-10,79,Male,24.8,Current - Light,Heavy,None,Poor,Fair,High,129,81,266,122,Asthma,No,13,Very High
+PAT00179,2025-05-04,30,Female,22.2,Current - Heavy,Moderate,None,Good,Poor,Low,92,114,237,97,Arthritis,Yes,8,High
+PAT00477,2022-09-26,84,Male,21.6,Former,Moderate,Intensive,Excellent,Excellent,Moderate,141,100,197,117,Arthritis,No,7,Moderate
+PAT00203,2020-04-29,43,Female,21.9,Current - Heavy,Heavy,None,Fair,Fair,High,180,111,166,96,Asthma,Yes,12,High
+PAT00188,2023-08-28,43,Female,25.6,Never,Moderate,Regular,Good,Excellent,Very High,165,67,239,160,Heart Disease,Yes,10,High
+PAT00417,2023-05-03,28,Male,27.7,Current - Light,None,Rare,Good,Poor,Moderate,137,104,186,200,Heart Disease,No,8,High
+PAT00306,2021-07-18,67,Female,27.4,Former,Heavy,Intensive,Fair,Fair,Very High,126,68,197,150,Heart Disease,Yes,12,High
+PAT00444,2024-01-10,19,Female,30.1,Former,Light,Regular,Excellent,Excellent,Very High,143,105,263,195,Diabetes,Yes,14,Very High
+PAT00290,2020-05-06,46,Female,26.1,Never,Moderate,Rare,Good,Fair,Very High,162,107,276,200,None,Yes,12,High
+PAT00138,2024-02-11,23,Female,33.3,Former,Heavy,None,Fair,Good,Low,147,76,239,92,Heart Disease,Yes,11,High
+PAT00398,2022-08-28,44,Female,24.7,Current - Heavy,Light,Intensive,Fair,Fair,Moderate,97,96,239,141,Asthma,Yes,9,High
+PAT00166,2023-04-13,55,Female,39.6,Never,Light,Regular,Poor,Good,Moderate,179,115,183,133,Diabetes,No,11,High
+PAT00425,2022-10-10,68,Female,29.1,Former,Moderate,Regular,Excellent,Excellent,Low,171,110,173,173,Asthma,No,10,High
+PAT00356,2024-02-20,76,Female,21.7,Current - Light,None,None,Excellent,Good,Low,158,85,205,179,Diabetes,No,12,High
+PAT00138,2023-08-15,54,Female,20.6,Former,Heavy,Moderate,Poor,Poor,Low,170,110,267,74,None,Yes,9,High
+PAT00226,2025-02-12,18,Female,28.4,Former,Light,Moderate,Fair,Good,Low,173,83,214,91,Hypertension,Yes,8,High
+PAT00027,2024-06-11,57,Male,24.9,Current - Heavy,None,None,Poor,Fair,Very High,99,68,207,183,None,Yes,13,Very High
+PAT00357,2023-11-08,33,Female,29.6,Former,Heavy,None,Fair,Excellent,Low,103,66,230,164,Hypertension,Yes,10,High
+PAT00196,2021-06-29,36,Male,28.4,Never,Light,Regular,Good,Fair,Moderate,142,99,263,125,None,Yes,6,Moderate
+PAT00072,2021-05-19,67,Female,25.6,Current - Heavy,Moderate,Rare,Fair,Good,Low,121,95,222,76,Arthritis,No,10,High
+PAT00106,2025-10-21,83,Male,21.8,Current - Heavy,Moderate,None,Fair,Excellent,Very High,104,75,277,88,Asthma,Yes,15,Very High
+PAT00185,2023-07-20,34,Female,18.4,Current - Heavy,Moderate,Intensive,Fair,Excellent,Low,92,97,167,73,Hypertension,Yes,7,Moderate
+PAT00021,2020-09-04,68,Female,23.8,Current - Heavy,Heavy,Regular,Poor,Fair,High,100,79,170,200,Diabetes,Yes,13,Very High
+PAT00275,2023-08-31,68,Male,30.3,Current - Light,Heavy,Rare,Poor,Fair,Low,145,67,266,84,Hypertension,Yes,16,Very High
+PAT00062,2020-02-21,35,Male,27.1,Former,Heavy,Moderate,Good,Fair,High,106,107,218,100,None,No,3,Low
+PAT00414,2024-10-24,52,Male,19.8,Current - Light,None,Regular,Excellent,Good,Low,153,114,295,112,Hypertension,Yes,10,High
+PAT00131,2021-02-25,32,Male,26.9,Never,None,None,Fair,Poor,Very High,136,84,188,115,None,No,6,Moderate
+PAT00115,2023-08-11,49,Female,27.9,Current - Light,Moderate,None,Good,Poor,Low,112,74,282,81,Heart Disease,Yes,11,High
+PAT00450,2025-03-20,54,Female,21.6,Current - Light,None,Intensive,Excellent,Poor,High,115,78,294,147,Arthritis,Yes,11,High
+PAT00238,2024-02-17,81,Male,26.8,Former,Light,None,Excellent,Poor,Moderate,159,82,152,155,None,No,10,High
+PAT00435,2023-06-13,31,Male,26.3,Former,Heavy,Regular,Poor,Fair,High,101,62,209,175,Arthritis,No,9,High
+PAT00235,2020-12-13,30,Male,20.3,Current - Heavy,None,Intensive,Poor,Excellent,Moderate,120,78,216,150,Heart Disease,No,9,High
+PAT00163,2025-01-28,52,Male,27.8,Never,Light,Rare,Poor,Fair,Low,111,88,269,150,Heart Disease,Yes,12,High
+PAT00275,2024-01-07,44,Female,28.8,Current - Light,Heavy,Moderate,Poor,Poor,Moderate,177,79,160,125,Hypertension,Yes,10,High
+PAT00047,2022-10-13,63,Female,31.4,Never,Moderate,Moderate,Fair,Poor,Very High,147,95,290,133,None,No,13,Very High
+PAT00053,2021-07-26,33,Male,31.3,Never,Light,Rare,Fair,Excellent,High,177,100,171,136,None,Yes,10,High
+PAT00034,2022-03-20,74,Male,19.1,Never,Moderate,None,Poor,Excellent,Low,111,119,296,180,Arthritis,No,12,High
+PAT00255,2020-04-30,66,Female,21.3,Former,Moderate,Rare,Fair,Good,High,147,116,188,78,Asthma,Yes,11,High
+PAT00332,2023-04-23,81,Female,28.6,Current - Heavy,None,None,Good,Excellent,Moderate,143,72,284,133,Arthritis,Yes,17,Very High
+PAT00196,2024-01-10,79,Female,28.6,Current - Light,Moderate,Regular,Good,Fair,Low,130,98,206,77,Hypertension,Yes,8,High
+PAT00415,2025-04-16,85,Female,28.6,Former,Light,None,Fair,Fair,High,158,112,164,126,Asthma,No,12,High
+PAT00182,2021-12-12,40,Male,45.3,Current - Light,Moderate,Intensive,Poor,Good,Moderate,162,120,198,196,Asthma,No,12,High
+PAT00090,2025-07-01,22,Male,28.9,Never,Light,Intensive,Fair,Poor,Very High,90,81,201,103,Hypertension,Yes,7,Moderate
+PAT00471,2023-08-18,25,Male,31.7,Former,Light,None,Good,Poor,High,180,120,251,95,Hypertension,No,12,High
+PAT00166,2021-07-12,38,Female,30.8,Current - Heavy,Moderate,Rare,Good,Fair,Moderate,138,79,225,102,Diabetes,Yes,9,High
+PAT00486,2024-05-22,22,Male,29.3,Current - Light,Light,Intensive,Poor,Excellent,Moderate,132,107,169,130,Hypertension,No,9,High
+PAT00086,2020-12-29,60,Female,24.4,Never,Moderate,Rare,Fair,Poor,High,122,110,177,70,None,No,4,Moderate
+PAT00225,2024-09-14,39,Female,29.8,Current - Heavy,Heavy,Moderate,Excellent,Poor,Very High,163,101,207,111,Heart Disease,Yes,11,High
+PAT00410,2020-05-16,55,Male,22.1,Current - Light,Moderate,None,Poor,Good,Moderate,138,70,169,93,Hypertension,No,9,High
+PAT00361,2020-05-06,73,Male,24.8,Current - Heavy,Light,None,Poor,Good,Moderate,114,86,291,137,Arthritis,No,15,Very High
+PAT00153,2022-08-30,30,Male,23.6,Current - Heavy,Heavy,Rare,Poor,Good,Low,144,65,225,192,Diabetes,Yes,13,Very High
+PAT00014,2022-04-27,39,Female,26.4,Never,Heavy,None,Good,Excellent,Very High,152,117,217,93,Arthritis,No,9,High
+PAT00095,2024-02-28,66,Female,37.6,Former,Heavy,None,Good,Excellent,Very High,123,74,218,85,Diabetes,Yes,12,High
+PAT00044,2023-11-09,70,Male,16.7,Never,Heavy,Intensive,Excellent,Excellent,Moderate,150,79,170,171,Arthritis,Yes,9,High
+PAT00258,2025-10-17,36,Male,29.4,Current - Heavy,Light,Rare,Fair,Fair,Moderate,95,87,170,181,Diabetes,Yes,11,High
+PAT00428,2022-11-22,58,Male,17.9,Never,Heavy,Intensive,Excellent,Good,High,156,89,153,177,None,No,6,Moderate
+PAT00077,2021-08-30,30,Male,23.6,Never,Moderate,Intensive,Good,Excellent,High,139,101,274,191,None,Yes,6,Moderate
+PAT00142,2024-07-08,36,Female,31.4,Never,Heavy,Moderate,Fair,Poor,Very High,124,117,245,75,Hypertension,No,9,High
+PAT00160,2023-02-22,80,Male,26.3,Former,Light,Moderate,Excellent,Good,High,143,98,172,118,Heart Disease,Yes,10,High
+PAT00468,2024-07-25,80,Female,20.6,Never,Light,None,Good,Excellent,Moderate,157,116,295,77,Diabetes,Yes,11,High
+PAT00449,2022-04-02,25,Male,22.4,Never,Heavy,None,Good,Fair,High,137,112,268,199,Heart Disease,Yes,10,High
+PAT00349,2020-05-05,48,Female,29.4,Current - Heavy,Heavy,Rare,Excellent,Good,High,110,113,216,93,Hypertension,Yes,10,High
+PAT00198,2020-07-22,38,Male,22.3,Former,Light,Rare,Good,Excellent,Low,177,60,271,103,Arthritis,Yes,9,High
+PAT00308,2020-02-04,46,Female,27.1,Current - Light,Moderate,Regular,Excellent,Good,Very High,122,73,269,147,Arthritis,No,12,High
+PAT00300,2021-02-23,18,Female,26.2,Current - Light,Moderate,None,Excellent,Poor,High,125,100,233,140,Hypertension,No,10,High
+PAT00097,2021-09-06,84,Male,22.7,Never,Heavy,Moderate,Fair,Poor,Very High,127,76,257,173,Heart Disease,Yes,12,High
+PAT00299,2022-02-16,61,Male,36.7,Current - Heavy,Moderate,Intensive,Good,Fair,Moderate,127,66,270,102,Arthritis,No,11,High
+PAT00372,2022-01-19,60,Male,29.2,Former,Moderate,Rare,Good,Excellent,High,137,76,299,145,Heart Disease,Yes,12,High
+PAT00241,2020-08-07,27,Female,15.9,Former,None,Regular,Good,Excellent,Low,109,68,201,157,Heart Disease,No,5,Moderate
+PAT00074,2023-07-19,41,Male,26.9,Current - Heavy,Moderate,Rare,Good,Poor,Low,147,77,203,113,Asthma,Yes,10,High
+PAT00251,2020-12-26,34,Female,22.7,Current - Heavy,Heavy,Regular,Excellent,Excellent,Low,94,94,201,165,None,No,5,Moderate
+PAT00388,2025-12-15,42,Male,30.3,Never,Light,Rare,Good,Good,Moderate,103,84,278,148,Diabetes,Yes,10,High
+PAT00422,2020-07-06,56,Female,22.0,Current - Heavy,Moderate,Regular,Fair,Good,Very High,135,108,198,112,Heart Disease,Yes,10,High
+PAT00117,2022-07-07,34,Male,25.4,Never,Light,None,Good,Poor,Very High,171,76,286,82,Asthma,Yes,12,High
+PAT00339,2021-03-18,20,Male,28.5,Never,Heavy,Regular,Excellent,Poor,High,150,104,189,122,Arthritis,Yes,7,Moderate
+PAT00155,2024-09-19,30,Female,30.3,Former,Heavy,None,Poor,Good,Low,103,91,200,121,Hypertension,Yes,10,High
+PAT00184,2024-08-05,55,Male,20.0,Never,Heavy,Rare,Excellent,Good,Moderate,90,60,172,98,Asthma,No,4,Moderate
+PAT00077,2021-01-03,83,Male,24.3,Never,Moderate,Rare,Excellent,Good,High,149,63,175,114,None,No,6,Moderate
+PAT00185,2023-07-04,72,Male,23.6,Never,None,None,Fair,Fair,High,135,117,262,138,Arthritis,Yes,13,Very High
+PAT00191,2023-11-04,41,Male,22.7,Current - Heavy,Heavy,Regular,Good,Excellent,Very High,143,101,192,98,Diabetes,Yes,10,High
+PAT00483,2021-10-14,31,Female,34.8,Current - Heavy,Heavy,Rare,Excellent,Good,Low,177,116,183,193,Heart Disease,Yes,13,Very High
+PAT00455,2024-08-11,74,Male,28.0,Never,Moderate,Moderate,Poor,Fair,High,156,93,174,180,Arthritis,Yes,13,Very High
+PAT00247,2023-11-17,67,Male,19.7,Never,None,Rare,Excellent,Excellent,Moderate,99,108,275,152,Diabetes,No,9,High
+PAT00497,2023-02-13,24,Male,30.6,Current - Heavy,Heavy,Rare,Poor,Excellent,Very High,163,88,172,197,Heart Disease,No,16,Very High
+PAT00061,2025-07-30,20,Male,36.6,Current - Heavy,Heavy,None,Poor,Poor,High,155,95,202,186,Hypertension,No,16,Very High
+PAT00423,2020-08-10,46,Female,31.2,Current - Light,Heavy,Moderate,Excellent,Poor,Low,174,74,150,157,Hypertension,No,11,High
+PAT00281,2025-11-08,65,Male,18.4,Never,Light,Regular,Fair,Excellent,Low,122,99,200,118,None,No,3,Low
+PAT00111,2025-02-15,42,Female,23.6,Never,Heavy,None,Poor,Excellent,Very High,174,97,279,104,Heart Disease,Yes,13,Very High
+PAT00272,2020-07-17,73,Female,32.3,Former,Light,Rare,Poor,Excellent,High,154,116,248,177,Asthma,Yes,18,Very High
+PAT00141,2024-06-17,61,Female,22.5,Current - Heavy,Light,Rare,Excellent,Good,High,160,100,205,121,Diabetes,No,11,High
+PAT00352,2023-11-15,34,Male,28.2,Current - Light,None,Moderate,Excellent,Excellent,High,144,111,153,97,None,No,6,Moderate
+PAT00075,2020-08-05,25,Male,29.9,Current - Light,Light,Moderate,Good,Fair,Low,178,110,225,122,Asthma,Yes,8,High
+PAT00184,2025-01-27,31,Male,21.4,Current - Heavy,Light,Intensive,Good,Poor,Very High,139,86,230,83,None,No,5,Moderate
+PAT00104,2024-12-19,46,Female,25.7,Former,Light,Moderate,Excellent,Fair,Low,113,71,281,100,Heart Disease,Yes,8,High
+PAT00220,2023-02-17,51,Male,15.0,Former,Moderate,None,Good,Excellent,Moderate,95,69,232,83,Arthritis,No,6,Moderate
+PAT00252,2024-01-06,27,Female,20.9,Former,Light,Intensive,Poor,Fair,Very High,159,94,253,93,Hypertension,Yes,12,High
+PAT00453,2022-05-23,60,Female,24.7,Current - Light,Moderate,Rare,Excellent,Poor,Low,175,82,264,131,Arthritis,Yes,13,Very High
+PAT00491,2020-06-12,59,Female,19.8,Never,Heavy,Moderate,Good,Poor,High,155,111,280,184,Heart Disease,Yes,11,High
+PAT00152,2022-02-27,59,Male,34.2,Never,Light,Intensive,Poor,Poor,Moderate,175,100,204,178,None,Yes,10,High
+PAT00276,2024-11-17,27,Male,18.8,Never,Heavy,Moderate,Poor,Poor,Low,96,71,214,88,Asthma,Yes,5,Moderate
+PAT00467,2022-11-25,70,Female,23.8,Current - Heavy,Heavy,Regular,Good,Poor,Very High,176,67,286,71,Arthritis,Yes,14,Very High
+PAT00388,2020-07-05,27,Female,26.7,Never,Moderate,Moderate,Poor,Good,Very High,138,85,157,191,Diabetes,Yes,10,High
+PAT00070,2024-05-20,55,Male,33.2,Current - Light,Moderate,None,Fair,Poor,Low,90,96,250,91,Hypertension,Yes,13,Very High
+PAT00384,2023-11-09,45,Female,18.8,Former,Light,Rare,Fair,Good,Moderate,104,71,295,83,Asthma,No,7,Moderate
+PAT00331,2020-10-26,55,Male,31.8,Current - Light,None,Rare,Excellent,Good,High,106,102,210,95,Hypertension,Yes,10,High
+PAT00461,2022-03-03,58,Female,26.1,Current - Heavy,Moderate,Intensive,Good,Fair,High,130,87,193,71,Hypertension,Yes,9,High
+PAT00403,2022-06-26,73,Female,21.1,Current - Light,Light,Moderate,Excellent,Excellent,Very High,135,109,228,194,Asthma,Yes,11,High
+PAT00090,2020-12-01,53,Male,28.3,Former,Moderate,None,Poor,Poor,Low,164,97,253,124,None,No,11,High
+PAT00279,2025-04-17,37,Female,27.0,Current - Heavy,Light,Intensive,Good,Fair,Very High,154,92,173,171,Hypertension,Yes,13,Very High
+PAT00340,2022-09-05,39,Male,23.0,Current - Heavy,Light,Rare,Fair,Excellent,High,95,74,274,129,None,No,10,High
+PAT00190,2022-08-16,23,Male,26.3,Current - Light,Heavy,Regular,Excellent,Poor,Low,173,80,176,140,Arthritis,No,9,High
+PAT00297,2021-12-13,66,Female,24.1,Current - Light,None,Intensive,Good,Excellent,Moderate,156,85,240,158,Heart Disease,No,10,High
+PAT00455,2020-01-28,82,Male,26.6,Current - Heavy,Light,Rare,Poor,Good,Moderate,109,71,190,162,Asthma,Yes,14,Very High
+PAT00339,2022-08-01,71,Female,29.3,Never,Heavy,Regular,Excellent,Fair,Moderate,172,113,255,75,Diabetes,Yes,10,High
+PAT00066,2021-10-21,35,Male,33.9,Former,None,Rare,Good,Fair,Very High,166,96,154,142,None,Yes,11,High
+PAT00230,2025-04-14,79,Male,19.8,Former,Heavy,Intensive,Fair,Fair,High,111,106,237,186,Asthma,Yes,10,High
+PAT00118,2024-03-29,67,Male,36.7,Never,None,Rare,Excellent,Fair,Low,112,90,159,198,None,Yes,8,High
+PAT00247,2021-06-17,18,Female,16.2,Current - Heavy,Moderate,None,Excellent,Fair,Very High,138,82,300,95,Heart Disease,Yes,12,High
+PAT00131,2025-05-08,47,Male,25.2,Current - Light,Heavy,Moderate,Fair,Poor,Low,163,93,180,71,Heart Disease,Yes,10,High
+PAT00353,2023-07-17,70,Female,28.9,Never,Light,Regular,Good,Good,Very High,162,83,220,171,Diabetes,No,11,High
+PAT00283,2025-05-30,40,Female,27.4,Current - Heavy,Moderate,Moderate,Good,Excellent,Moderate,174,67,208,184,Arthritis,Yes,11,High
+PAT00052,2022-05-28,83,Female,22.9,Current - Light,None,Rare,Excellent,Poor,Low,108,90,261,92,None,No,7,Moderate
+PAT00114,2024-02-27,28,Male,25.0,Current - Heavy,Heavy,Intensive,Good,Poor,Moderate,171,91,262,72,Diabetes,No,9,High
+PAT00100,2020-05-17,83,Male,23.5,Former,None,Moderate,Fair,Poor,Moderate,101,77,252,160,Arthritis,No,10,High
+PAT00208,2022-03-31,84,Male,23.1,Never,None,Intensive,Good,Good,High,125,74,199,186,Heart Disease,Yes,8,High
+PAT00134,2021-12-17,70,Male,30.2,Never,Moderate,Moderate,Poor,Good,High,178,88,246,193,Diabetes,No,15,Very High
+PAT00493,2025-02-22,76,Male,27.8,Current - Heavy,None,Moderate,Poor,Excellent,Moderate,176,104,208,150,Heart Disease,No,14,Very High
+PAT00265,2020-02-09,51,Male,22.5,Current - Light,None,Regular,Good,Poor,Moderate,150,80,240,125,Asthma,No,7,Moderate
+PAT00094,2022-02-17,81,Male,30.5,Former,Light,Moderate,Fair,Fair,Moderate,121,113,241,109,None,Yes,9,High
+PAT00472,2020-11-17,81,Male,27.5,Never,Heavy,Moderate,Good,Excellent,High,152,71,280,141,Heart Disease,Yes,13,Very High
+PAT00385,2021-06-09,24,Female,30.1,Current - Heavy,None,Intensive,Good,Excellent,Moderate,148,67,282,187,Hypertension,Yes,14,Very High
+PAT00007,2022-05-13,66,Male,29.1,Current - Light,Moderate,Intensive,Good,Fair,High,120,77,270,157,Hypertension,Yes,13,Very High
+PAT00256,2024-10-02,44,Female,21.9,Current - Light,Moderate,Regular,Good,Excellent,Moderate,163,68,297,128,None,No,8,High
+PAT00412,2022-08-23,73,Female,23.2,Former,Light,Rare,Excellent,Poor,Moderate,143,91,184,150,Heart Disease,No,10,High
+PAT00129,2020-07-14,68,Male,29.7,Former,None,Rare,Good,Excellent,Low,147,107,235,136,Hypertension,No,11,High
+PAT00287,2022-11-21,62,Male,29.1,Current - Heavy,None,Moderate,Fair,Fair,High,135,80,280,194,Arthritis,No,14,Very High
+PAT00456,2020-11-17,66,Female,25.9,Current - Heavy,Light,Rare,Good,Excellent,Very High,99,65,191,157,Diabetes,No,13,Very High
+PAT00163,2023-04-08,52,Female,26.6,Current - Light,Heavy,Moderate,Excellent,Excellent,Moderate,113,114,155,102,Arthritis,Yes,7,Moderate
+PAT00339,2022-10-27,28,Male,32.4,Former,Heavy,None,Poor,Poor,Very High,160,63,156,171,Asthma,Yes,16,Very High
+PAT00054,2022-12-11,37,Male,23.0,Current - Heavy,Moderate,Rare,Fair,Good,Very High,170,68,183,113,None,Yes,10,High
+PAT00340,2024-01-01,59,Female,28.7,Current - Heavy,Moderate,Intensive,Excellent,Fair,Moderate,165,98,266,181,Asthma,No,13,Very High
+PAT00466,2023-11-23,79,Male,25.0,Never,Heavy,Moderate,Good,Excellent,High,109,79,152,70,Asthma,Yes,6,Moderate
+PAT00177,2023-03-20,78,Male,24.9,Current - Heavy,Heavy,Moderate,Poor,Excellent,High,166,74,151,165,Diabetes,No,14,Very High
+PAT00452,2024-11-25,68,Male,31.5,Former,Heavy,Regular,Fair,Good,Low,144,100,211,139,Hypertension,No,12,High
+PAT00212,2022-02-09,26,Male,30.1,Former,Moderate,None,Excellent,Excellent,High,179,99,275,118,Hypertension,Yes,13,Very High
+PAT00078,2020-07-22,20,Male,30.1,Never,Moderate,Moderate,Fair,Excellent,Low,119,65,188,73,Heart Disease,Yes,6,Moderate
+PAT00176,2024-09-17,57,Female,32.5,Current - Light,Heavy,None,Good,Poor,Moderate,97,77,250,88,Asthma,No,11,High
+PAT00093,2022-02-26,50,Female,26.1,Never,None,Rare,Excellent,Excellent,Moderate,94,72,267,94,Asthma,Yes,8,High
+PAT00243,2024-05-12,57,Female,29.4,Former,None,Intensive,Poor,Good,Very High,171,79,200,162,None,Yes,12,High
+PAT00499,2021-04-07,48,Female,24.4,Current - Light,None,Rare,Good,Poor,Very High,121,60,160,191,Arthritis,Yes,11,High
+PAT00191,2021-01-01,49,Male,27.6,Current - Heavy,None,Intensive,Good,Poor,Low,135,101,189,97,Diabetes,No,7,Moderate
+PAT00120,2023-07-21,62,Female,25.3,Former,None,Regular,Good,Fair,High,95,91,262,145,Asthma,No,11,High
+PAT00098,2022-02-03,62,Female,26.5,Current - Heavy,Moderate,Intensive,Fair,Poor,Moderate,147,78,217,163,Heart Disease,Yes,14,Very High
+PAT00398,2025-09-03,66,Male,29.0,Never,Moderate,Intensive,Fair,Good,Low,174,94,249,118,Asthma,No,10,High
+PAT00393,2021-09-23,54,Female,21.9,Current - Heavy,Moderate,None,Poor,Poor,Low,106,71,158,121,None,No,8,High
+PAT00099,2021-02-08,22,Female,36.5,Current - Heavy,Moderate,None,Good,Fair,Low,91,119,203,195,None,No,9,High
+PAT00411,2020-09-05,64,Female,21.0,Current - Light,None,Intensive,Good,Poor,Low,128,64,205,94,None,Yes,5,Moderate
+PAT00273,2024-04-27,42,Male,19.9,Former,Light,Intensive,Excellent,Poor,High,176,89,259,96,Diabetes,Yes,9,High
+PAT00282,2024-07-02,82,Female,31.8,Former,Heavy,Moderate,Good,Good,High,142,108,260,152,Asthma,Yes,15,Very High
+PAT00289,2022-05-26,66,Female,30.0,Current - Light,Heavy,Regular,Excellent,Poor,Low,126,98,154,104,Hypertension,Yes,8,High
+PAT00154,2022-06-27,45,Female,29.1,Never,Moderate,Intensive,Fair,Poor,Low,148,82,189,105,Hypertension,No,6,Moderate
+PAT00456,2022-10-20,47,Female,29.1,Current - Light,None,Intensive,Excellent,Fair,Low,131,110,273,114,Heart Disease,Yes,9,High
+PAT00305,2023-05-15,22,Female,25.9,Never,None,Moderate,Good,Excellent,Very High,105,115,208,72,Arthritis,No,5,Moderate
+PAT00028,2023-06-02,85,Male,21.5,Current - Light,Light,Moderate,Fair,Fair,Low,176,106,250,184,Asthma,Yes,14,Very High
+PAT00114,2024-11-04,55,Female,26.4,Former,Light,Moderate,Poor,Excellent,Low,160,85,217,91,Heart Disease,No,9,High
+PAT00397,2021-06-18,35,Female,22.6,Former,Heavy,Regular,Fair,Fair,Moderate,99,77,260,152,Arthritis,Yes,9,High
+PAT00058,2024-08-21,72,Female,30.9,Current - Light,Light,Moderate,Good,Poor,High,111,82,263,107,Heart Disease,Yes,12,High
+PAT00474,2022-08-14,43,Female,25.3,Former,None,None,Poor,Fair,Moderate,126,60,237,98,Hypertension,No,8,High
+PAT00242,2020-04-03,60,Male,21.9,Former,Light,Intensive,Good,Excellent,Moderate,178,104,154,166,Asthma,Yes,9,High
+PAT00131,2021-11-28,25,Female,24.4,Former,Moderate,None,Excellent,Poor,Low,139,102,219,162,None,Yes,6,Moderate
+PAT00150,2024-05-02,47,Female,28.1,Never,Moderate,Regular,Poor,Fair,Moderate,154,89,293,75,None,Yes,9,High
+PAT00473,2025-12-08,57,Female,23.2,Current - Heavy,Heavy,Rare,Poor,Good,High,135,100,227,130,Asthma,No,12,High
+PAT00416,2020-09-10,50,Female,21.9,Never,Moderate,Rare,Fair,Good,Very High,174,68,172,167,Asthma,Yes,12,High
+PAT00214,2022-09-11,37,Female,27.2,Current - Light,Moderate,Regular,Fair,Fair,Moderate,164,94,201,105,Hypertension,Yes,9,High
+PAT00221,2021-08-17,38,Female,27.2,Never,None,Rare,Good,Fair,Low,130,116,255,175,Hypertension,No,8,High
+PAT00382,2023-01-26,37,Male,23.5,Never,Light,Rare,Poor,Good,Moderate,166,74,209,76,Hypertension,Yes,8,High
+PAT00353,2025-05-06,35,Female,23.6,Current - Light,Light,Regular,Excellent,Excellent,Moderate,110,72,207,78,Heart Disease,Yes,5,Moderate
+PAT00474,2023-01-10,70,Male,27.2,Former,Light,None,Fair,Excellent,Very High,178,80,267,133,Heart Disease,No,17,Very High
+PAT00398,2020-06-20,66,Female,18.8,Current - Heavy,None,Intensive,Poor,Excellent,Very High,95,116,212,171,Arthritis,Yes,14,Very High
+PAT00286,2024-05-05,84,Male,19.0,Former,Moderate,Regular,Excellent,Good,High,149,70,258,145,Asthma,Yes,13,Very High
+PAT00354,2025-10-18,36,Female,22.4,Current - Heavy,None,Intensive,Poor,Fair,Moderate,140,86,232,185,None,Yes,8,High
+PAT00233,2022-04-07,76,Male,24.9,Current - Light,Moderate,Rare,Poor,Poor,Low,180,88,242,91,Asthma,No,13,Very High
+PAT00373,2025-09-26,38,Female,27.6,Current - Heavy,None,Rare,Good,Fair,Moderate,108,71,163,177,Hypertension,No,9,High
+PAT00374,2025-01-01,54,Male,33.4,Never,Light,Rare,Poor,Good,Low,148,91,277,71,Asthma,No,12,High
+PAT00122,2022-06-07,78,Female,30.3,Current - Heavy,Heavy,None,Poor,Fair,High,169,100,292,123,None,Yes,17,Very High
+PAT00076,2020-08-13,62,Male,25.2,Former,None,Intensive,Good,Good,Low,96,66,256,115,Diabetes,No,8,High
+PAT00313,2021-12-27,76,Female,25.9,Never,None,Moderate,Good,Good,Very High,98,108,259,86,Hypertension,No,9,High
+PAT00069,2021-05-14,53,Female,21.0,Current - Heavy,Light,Rare,Poor,Poor,Low,151,106,223,179,Asthma,No,13,Very High
+PAT00133,2025-11-22,63,Male,25.9,Current - Heavy,Heavy,Regular,Fair,Fair,High,114,60,180,76,Heart Disease,Yes,11,High
+PAT00378,2022-04-29,71,Female,24.6,Never,Moderate,Moderate,Fair,Poor,Moderate,178,78,215,87,Hypertension,No,7,Moderate
+PAT00260,2023-08-19,18,Male,27.6,Current - Light,Moderate,Regular,Poor,Fair,Moderate,132,113,236,192,Heart Disease,Yes,10,High
+PAT00331,2021-07-10,79,Male,21.9,Current - Heavy,Moderate,Regular,Excellent,Poor,High,162,106,230,74,Diabetes,No,10,High
+PAT00410,2023-12-19,26,Male,28.6,Current - Light,None,Moderate,Excellent,Fair,Very High,113,98,179,148,Arthritis,No,9,High
+PAT00364,2020-05-09,52,Female,33.7,Never,Heavy,Rare,Good,Excellent,High,117,93,227,114,None,No,5,Moderate
+PAT00402,2020-06-02,43,Male,25.5,Current - Heavy,None,Regular,Fair,Fair,High,151,106,284,149,Hypertension,Yes,15,Very High
+PAT00394,2021-02-06,84,Male,28.0,Former,None,Regular,Excellent,Poor,Low,129,119,161,92,Hypertension,No,6,Moderate
+PAT00456,2020-07-07,31,Female,29.5,Never,Moderate,Rare,Good,Fair,Moderate,126,77,286,151,Heart Disease,Yes,9,High
+PAT00140,2021-09-03,38,Female,24.0,Never,None,Intensive,Poor,Fair,High,160,80,219,106,Arthritis,No,7,Moderate
+PAT00294,2022-09-29,39,Male,27.1,Current - Light,Moderate,Intensive,Excellent,Poor,Moderate,93,90,162,97,Heart Disease,Yes,6,Moderate
+PAT00045,2024-10-12,68,Male,26.1,Current - Heavy,Moderate,Moderate,Good,Fair,Low,149,96,183,93,Arthritis,No,10,High
+PAT00050,2025-02-09,57,Female,26.5,Current - Heavy,Light,Rare,Fair,Good,High,140,71,234,153,Heart Disease,No,12,High
+PAT00016,2020-09-24,78,Male,22.1,Current - Light,Heavy,Regular,Fair,Good,High,167,96,182,200,None,No,10,High
+PAT00419,2021-03-14,59,Male,26.1,Current - Light,Heavy,Regular,Excellent,Fair,Moderate,160,70,273,168,None,No,10,High
+PAT00107,2024-10-31,73,Female,28.5,Former,Light,None,Excellent,Poor,Very High,131,95,174,183,Diabetes,No,12,High
+PAT00490,2024-07-20,26,Male,33.3,Current - Heavy,Moderate,Regular,Poor,Poor,Moderate,107,116,298,70,Diabetes,Yes,12,High
+PAT00232,2025-12-16,55,Female,30.8,Current - Heavy,Light,Rare,Good,Good,High,145,105,238,92,Asthma,Yes,13,Very High
+PAT00314,2025-09-21,69,Male,36.8,Current - Light,None,Moderate,Poor,Poor,High,104,115,222,77,Diabetes,No,11,High
+PAT00360,2024-06-02,58,Female,22.2,Current - Heavy,Heavy,Regular,Fair,Fair,Very High,107,72,292,168,Hypertension,No,13,Very High
+PAT00079,2023-03-27,34,Male,30.4,Never,None,None,Fair,Excellent,Very High,107,65,185,176,Heart Disease,No,11,High
+PAT00320,2022-01-06,76,Female,26.9,Current - Heavy,Heavy,Moderate,Fair,Fair,Very High,167,60,297,197,Arthritis,Yes,18,Very High
+PAT00365,2025-08-17,52,Female,36.9,Current - Light,None,None,Excellent,Good,Low,164,90,170,106,Arthritis,No,11,High
+PAT00239,2025-10-18,28,Male,22.0,Former,Heavy,None,Good,Poor,High,158,109,152,190,Heart Disease,No,10,High
+PAT00294,2023-09-19,71,Female,21.8,Current - Light,Moderate,Rare,Poor,Good,High,97,100,271,113,Asthma,Yes,13,Very High
+PAT00337,2023-04-10,21,Female,23.0,Current - Heavy,None,Rare,Poor,Good,High,106,99,221,140,Hypertension,Yes,12,High
+PAT00380,2021-04-01,40,Male,15.4,Current - Heavy,Moderate,Rare,Good,Fair,Very High,113,111,285,78,Hypertension,Yes,11,High
+PAT00496,2021-08-17,37,Female,23.4,Current - Heavy,Heavy,Rare,Excellent,Fair,Moderate,163,106,238,83,Arthritis,No,8,High
+PAT00387,2021-04-20,24,Male,22.2,Current - Heavy,Heavy,Regular,Good,Excellent,Moderate,138,103,249,191,Hypertension,Yes,10,High
+PAT00272,2024-11-15,19,Female,26.8,Current - Heavy,Heavy,Moderate,Poor,Poor,High,145,99,219,155,Hypertension,No,13,Very High
+PAT00411,2021-02-06,50,Female,27.7,Current - Heavy,Light,Intensive,Fair,Good,Moderate,130,95,152,72,None,Yes,7,Moderate
+PAT00211,2021-02-04,85,Male,35.4,Current - Heavy,Moderate,Rare,Good,Good,Moderate,94,61,173,84,Asthma,Yes,11,High
+PAT00487,2021-05-13,33,Male,30.8,Former,Heavy,Intensive,Fair,Poor,Moderate,122,78,269,89,Arthritis,No,8,High
+PAT00473,2023-02-06,72,Female,23.1,Current - Light,Light,None,Good,Poor,Very High,139,81,165,136,Hypertension,Yes,13,Very High
+PAT00226,2020-10-11,80,Male,21.5,Current - Heavy,Light,Regular,Poor,Fair,Very High,117,99,177,183,Arthritis,No,13,Very High
+PAT00053,2020-05-22,27,Male,28.5,Current - Light,Heavy,None,Excellent,Fair,Low,94,102,249,138,Diabetes,No,11,High
+PAT00464,2024-05-21,18,Female,19.4,Current - Heavy,Heavy,Regular,Poor,Fair,Low,139,104,273,101,Asthma,No,9,High
+PAT00171,2023-05-25,69,Male,35.2,Never,Moderate,Intensive,Good,Poor,Very High,127,101,201,115,Asthma,Yes,9,High
+PAT00496,2024-04-22,42,Female,31.9,Current - Heavy,None,Moderate,Excellent,Poor,Very High,114,68,159,119,None,Yes,8,High
+PAT00251,2024-05-11,26,Female,23.7,Current - Heavy,Heavy,None,Poor,Good,Low,133,110,160,173,None,Yes,10,High
+PAT00414,2025-11-12,76,Male,17.4,Former,None,None,Fair,Excellent,Low,150,118,161,132,Arthritis,Yes,13,Very High
+PAT00008,2021-12-06,24,Female,32.8,Never,Heavy,Intensive,Fair,Poor,Low,104,91,206,86,Diabetes,No,5,Moderate
+PAT00173,2024-07-04,59,Male,25.4,Former,Moderate,Rare,Poor,Fair,High,98,67,220,106,Heart Disease,Yes,10,High
+PAT00357,2024-02-24,39,Female,32.2,Former,None,Rare,Poor,Excellent,Moderate,92,116,274,90,None,Yes,9,High
+PAT00092,2020-12-31,54,Female,18.0,Current - Heavy,Light,Rare,Fair,Good,Very High,142,75,194,79,Asthma,Yes,13,Very High
+PAT00368,2025-08-09,29,Female,23.0,Current - Light,Heavy,None,Fair,Fair,Low,157,66,242,199,Diabetes,No,13,Very High
+PAT00395,2022-05-02,53,Male,26.0,Former,None,Rare,Excellent,Excellent,Moderate,110,102,161,83,Arthritis,No,6,Moderate
+PAT00146,2022-05-08,73,Female,26.2,Current - Light,Heavy,None,Poor,Poor,Moderate,110,110,157,194,Asthma,Yes,14,Very High
+PAT00037,2022-08-21,74,Female,23.7,Current - Heavy,Light,Moderate,Fair,Poor,High,119,66,210,175,Diabetes,No,11,High
+PAT00457,2022-06-22,27,Female,29.1,Current - Heavy,None,Regular,Fair,Fair,Very High,112,84,245,104,Heart Disease,Yes,12,High
+PAT00324,2024-01-08,52,Male,20.7,Current - Light,Light,None,Poor,Good,Moderate,104,114,269,187,Heart Disease,Yes,14,Very High
+PAT00390,2023-11-08,46,Female,25.3,Former,Light,Intensive,Fair,Poor,Very High,156,91,205,191,Heart Disease,No,12,High
+PAT00008,2024-10-19,49,Male,26.6,Current - Light,Heavy,Intensive,Fair,Fair,Low,143,62,160,190,Arthritis,Yes,12,High
+PAT00218,2025-12-15,68,Female,28.6,Never,Heavy,Regular,Fair,Poor,Low,178,106,254,125,Diabetes,No,10,High
+PAT00152,2022-09-06,29,Male,29.6,Current - Heavy,Moderate,Rare,Excellent,Poor,Very High,149,109,185,173,Diabetes,No,13,Very High
+PAT00321,2025-03-16,18,Male,20.4,Current - Heavy,Moderate,Intensive,Poor,Good,Very High,124,104,288,123,Arthritis,Yes,12,High
+PAT00318,2023-10-07,25,Female,18.3,Never,None,Regular,Good,Excellent,Low,136,83,194,87,Asthma,Yes,3,Low
+PAT00071,2023-10-03,48,Male,32.4,Current - Heavy,Light,Rare,Good,Good,High,154,103,258,140,None,Yes,15,Very High
+PAT00191,2023-11-15,75,Female,27.7,Never,Heavy,Intensive,Good,Excellent,High,176,120,166,118,Heart Disease,Yes,9,High
+PAT00042,2024-05-19,40,Female,22.3,Never,None,Rare,Good,Poor,Moderate,153,69,202,75,Hypertension,No,5,Moderate
+PAT00497,2021-06-24,78,Female,33.8,Current - Heavy,Heavy,None,Good,Fair,Low,92,115,209,155,Heart Disease,No,13,Very High
+PAT00336,2023-08-29,80,Female,26.6,Current - Heavy,Moderate,Intensive,Fair,Good,Moderate,123,74,273,165,Hypertension,Yes,14,Very High
+PAT00076,2023-12-17,54,Female,31.9,Former,Light,Intensive,Good,Fair,Moderate,180,104,189,111,Diabetes,Yes,9,High
+PAT00022,2023-07-20,34,Female,26.3,Current - Light,Moderate,Rare,Fair,Poor,High,134,69,245,184,Asthma,Yes,13,Very High
+PAT00274,2023-05-20,33,Male,36.3,Current - Heavy,Heavy,Rare,Excellent,Good,Moderate,90,107,289,199,Hypertension,No,12,High
+PAT00243,2023-04-02,36,Female,34.8,Current - Light,None,Regular,Poor,Fair,Low,129,61,252,126,Heart Disease,No,10,High
+PAT00048,2023-08-29,25,Male,24.8,Former,Moderate,Rare,Poor,Poor,Very High,176,102,172,170,Diabetes,No,12,High
+PAT00163,2025-09-26,25,Female,30.9,Current - Heavy,Light,Regular,Good,Excellent,High,91,78,238,159,Hypertension,No,10,High
+PAT00448,2020-12-24,45,Female,29.2,Current - Heavy,Heavy,Moderate,Fair,Excellent,Very High,107,113,300,92,Diabetes,Yes,12,High
+PAT00156,2025-04-28,85,Female,32.8,Never,Heavy,None,Poor,Excellent,High,143,71,292,188,Arthritis,Yes,18,Very High
+PAT00103,2022-01-31,66,Female,21.2,Current - Heavy,None,Moderate,Good,Excellent,Very High,118,61,150,109,Hypertension,No,9,High
+PAT00490,2025-04-19,33,Female,29.4,Current - Heavy,Light,Regular,Fair,Poor,Low,125,91,167,162,Asthma,No,9,High
+PAT00290,2024-11-21,51,Female,31.3,Never,Moderate,Intensive,Poor,Good,Moderate,164,63,187,151,Heart Disease,Yes,12,High
+PAT00183,2021-10-30,24,Female,17.2,Current - Light,Heavy,Moderate,Poor,Good,High,157,100,169,119,Arthritis,Yes,10,High
+PAT00392,2021-01-22,39,Female,20.1,Current - Light,Moderate,Moderate,Good,Poor,High,108,60,185,142,Hypertension,No,7,Moderate
+PAT00211,2023-10-25,38,Male,15.8,Former,Light,Intensive,Fair,Fair,Low,143,89,169,99,Diabetes,Yes,7,Moderate
+PAT00246,2023-11-27,57,Female,24.7,Former,Heavy,Intensive,Good,Fair,High,93,107,180,126,Diabetes,Yes,6,Moderate
+PAT00353,2022-07-17,57,Male,29.6,Former,Light,None,Excellent,Poor,Low,92,109,273,180,None,Yes,10,High
+PAT00056,2020-05-14,83,Male,33.5,Current - Heavy,None,Moderate,Poor,Poor,High,175,60,174,101,Asthma,Yes,15,Very High
+PAT00301,2022-03-30,41,Female,26.4,Never,None,Rare,Good,Good,High,110,114,278,131,Asthma,Yes,10,High
+PAT00051,2020-02-27,85,Male,34.1,Former,Moderate,Rare,Poor,Poor,Moderate,154,114,271,163,Arthritis,Yes,17,Very High
+PAT00226,2021-03-15,41,Female,19.1,Current - Heavy,Heavy,Rare,Fair,Excellent,Low,130,67,269,98,Asthma,Yes,10,High
+PAT00254,2024-01-19,54,Male,17.5,Never,Moderate,Regular,Poor,Excellent,High,148,98,229,183,Diabetes,No,10,High
+PAT00149,2024-10-18,42,Male,25.7,Current - Heavy,Moderate,Rare,Poor,Excellent,Low,140,88,283,91,None,Yes,10,High
+PAT00203,2024-06-28,31,Male,27.9,Never,Moderate,Rare,Good,Fair,Very High,105,74,258,197,Hypertension,No,10,High
+PAT00388,2024-06-27,63,Female,25.8,Current - Heavy,Heavy,Intensive,Good,Fair,Very High,103,67,214,195,Heart Disease,Yes,13,Very High
+PAT00322,2021-07-05,21,Male,15.7,Never,None,Regular,Poor,Fair,Very High,167,103,233,109,Hypertension,Yes,9,High
+PAT00390,2020-11-09,84,Female,25.6,Current - Heavy,Light,Moderate,Excellent,Excellent,High,159,81,288,74,None,No,11,High
+PAT00451,2021-05-02,67,Female,19.5,Current - Light,Heavy,Regular,Excellent,Poor,Low,112,95,227,112,Heart Disease,No,6,Moderate
+PAT00069,2023-07-03,67,Female,29.3,Never,Heavy,Intensive,Excellent,Excellent,Moderate,154,63,250,137,Heart Disease,No,11,High
+PAT00316,2023-12-15,54,Female,27.8,Never,None,Intensive,Poor,Fair,High,134,111,299,76,Arthritis,No,9,High
+PAT00195,2021-02-02,72,Female,21.3,Current - Light,Heavy,Moderate,Poor,Fair,Moderate,120,101,229,91,Arthritis,Yes,9,High
+PAT00445,2023-06-02,32,Female,23.4,Former,None,Intensive,Good,Poor,Very High,174,115,258,177,Hypertension,Yes,12,High
+PAT00357,2025-04-07,20,Female,20.7,Current - Heavy,Heavy,Moderate,Poor,Excellent,Low,178,103,202,156,Heart Disease,No,11,High
+PAT00086,2023-05-11,64,Female,25.7,Former,Heavy,None,Fair,Good,High,96,79,296,172,Diabetes,Yes,15,Very High
+PAT00368,2021-01-23,61,Female,30.8,Never,Heavy,Regular,Fair,Good,Low,173,112,227,199,Hypertension,No,11,High
+PAT00340,2023-07-07,43,Female,21.1,Current - Heavy,Moderate,Intensive,Excellent,Fair,Low,170,105,282,117,Asthma,No,9,High
+PAT00110,2025-03-29,52,Female,28.5,Never,Light,Moderate,Excellent,Fair,Moderate,109,107,226,181,Heart Disease,No,6,Moderate
+PAT00441,2020-09-20,44,Female,23.3,Current - Light,Moderate,Rare,Good,Fair,Very High,120,67,188,119,None,Yes,6,Moderate
+PAT00409,2023-06-25,77,Female,22.0,Current - Heavy,Heavy,None,Fair,Fair,High,107,61,216,141,Arthritis,Yes,14,Very High
+PAT00330,2020-06-21,80,Male,25.5,Never,None,Moderate,Good,Poor,Very High,136,102,173,171,Arthritis,Yes,10,High
+PAT00121,2021-04-03,82,Male,20.8,Current - Light,Heavy,None,Fair,Poor,High,132,113,299,169,Arthritis,Yes,15,Very High
+PAT00479,2024-09-28,45,Male,23.2,Never,Light,Rare,Good,Excellent,Very High,122,115,300,84,Heart Disease,No,7,Moderate
+PAT00359,2021-04-07,58,Female,20.0,Current - Heavy,Light,Moderate,Fair,Good,Very High,137,112,228,75,Arthritis,Yes,10,High
+PAT00431,2020-08-11,48,Female,35.8,Current - Heavy,Moderate,Moderate,Poor,Fair,Very High,139,60,250,135,Hypertension,Yes,17,Very High
+PAT00480,2022-08-22,56,Male,26.2,Former,Heavy,Moderate,Excellent,Poor,High,100,112,275,190,Arthritis,No,10,High
+PAT00475,2023-09-24,72,Male,22.5,Former,Moderate,Intensive,Poor,Good,Very High,167,106,290,153,Heart Disease,Yes,16,Very High
+PAT00391,2020-08-01,41,Female,27.1,Former,None,Regular,Fair,Good,High,163,65,178,110,Diabetes,Yes,9,High
+PAT00434,2024-08-07,58,Female,25.4,Current - Heavy,Light,Moderate,Fair,Good,High,115,65,256,164,Diabetes,No,13,Very High
+PAT00449,2024-03-25,46,Male,24.9,Never,Light,None,Excellent,Fair,High,179,114,193,82,Heart Disease,No,8,High
+PAT00308,2022-12-01,37,Male,29.1,Current - Light,Light,Intensive,Poor,Poor,Very High,148,112,276,100,Diabetes,Yes,14,Very High
+PAT00098,2022-12-26,54,Female,29.8,Current - Heavy,Light,Regular,Fair,Fair,High,176,72,257,116,Heart Disease,Yes,14,Very High
+PAT00015,2023-04-03,51,Male,23.3,Current - Heavy,Light,Moderate,Excellent,Poor,Low,150,68,232,171,Arthritis,Yes,11,High
+PAT00366,2024-04-19,72,Female,23.1,Never,None,Intensive,Poor,Poor,High,120,90,240,81,None,No,5,Moderate
+PAT00259,2024-04-09,56,Female,24.6,Current - Light,Light,Intensive,Poor,Fair,High,111,92,276,156,Heart Disease,Yes,13,Very High
+PAT00046,2023-07-23,85,Female,15.0,Former,Moderate,None,Good,Poor,Moderate,153,115,221,162,Heart Disease,No,11,High
+PAT00463,2022-12-14,51,Female,18.4,Current - Heavy,Light,Moderate,Excellent,Fair,Very High,96,72,188,83,Diabetes,Yes,9,High
+PAT00019,2025-04-10,51,Male,32.8,Current - Heavy,Heavy,None,Excellent,Poor,Very High,135,105,293,194,Heart Disease,No,16,Very High
+PAT00058,2021-08-29,33,Female,34.2,Never,Light,Moderate,Fair,Fair,High,162,117,299,124,Asthma,Yes,11,High
+PAT00270,2022-01-09,71,Male,24.8,Former,Heavy,None,Good,Poor,High,177,103,181,170,Hypertension,Yes,13,Very High
+PAT00429,2023-08-18,37,Male,28.9,Never,Heavy,Regular,Excellent,Good,Low,132,62,265,153,Arthritis,Yes,8,High
+PAT00109,2020-07-18,54,Female,27.6,Never,None,Intensive,Excellent,Poor,Very High,122,71,211,172,None,Yes,7,Moderate
+PAT00437,2022-05-02,38,Female,41.4,Current - Heavy,Moderate,Rare,Poor,Good,Very High,145,107,229,103,Hypertension,Yes,15,Very High
+PAT00427,2024-02-14,83,Male,31.6,Current - Heavy,Heavy,Regular,Excellent,Good,Very High,101,108,258,164,Asthma,Yes,16,Very High
+PAT00223,2024-10-10,29,Male,25.4,Current - Light,Heavy,Rare,Fair,Excellent,Low,127,89,261,90,Heart Disease,No,9,High
+PAT00077,2021-06-07,56,Male,21.2,Current - Heavy,Moderate,Intensive,Poor,Poor,Low,155,66,280,178,Heart Disease,Yes,15,Very High
+PAT00238,2022-11-03,63,Female,18.0,Never,None,None,Excellent,Fair,Moderate,140,62,171,176,Arthritis,No,8,High
+PAT00161,2025-02-06,75,Female,27.0,Current - Light,Light,Rare,Fair,Poor,High,176,66,261,74,None,No,12,High
+PAT00060,2020-02-24,39,Female,22.2,Current - Heavy,Heavy,Intensive,Excellent,Good,High,178,103,251,147,None,Yes,11,High
+PAT00070,2020-02-26,42,Male,18.9,Never,Light,None,Fair,Excellent,Moderate,173,75,261,118,None,No,7,Moderate
+PAT00395,2025-03-13,36,Female,22.8,Current - Heavy,None,None,Fair,Fair,Very High,152,90,155,185,Asthma,Yes,15,Very High
+PAT00104,2023-04-22,68,Male,20.6,Current - Light,None,None,Excellent,Excellent,Very High,164,98,291,144,None,No,14,Very High
+PAT00205,2025-06-14,83,Female,34.4,Former,None,Intensive,Poor,Excellent,High,160,64,218,176,Heart Disease,Yes,15,Very High
+PAT00254,2023-11-21,75,Female,30.4,Never,Light,Moderate,Fair,Excellent,High,146,74,279,126,Asthma,No,12,High
+PAT00472,2025-04-02,34,Female,26.0,Current - Heavy,Heavy,Moderate,Excellent,Fair,Moderate,126,104,172,193,Diabetes,Yes,9,High
+PAT00103,2021-10-02,80,Male,33.4,Current - Heavy,Heavy,Moderate,Fair,Fair,Low,92,82,216,161,Arthritis,Yes,13,Very High
+PAT00090,2025-08-24,22,Male,26.4,Current - Light,Heavy,None,Fair,Poor,Moderate,152,76,237,160,None,No,10,High
+PAT00459,2021-09-11,83,Male,21.7,Never,Heavy,Regular,Poor,Poor,Low,161,62,279,96,Diabetes,Yes,11,High
+PAT00446,2022-04-21,64,Male,33.6,Current - Light,Heavy,Intensive,Excellent,Poor,Moderate,172,83,235,105,None,Yes,9,High
+PAT00225,2024-08-29,18,Male,28.7,Current - Heavy,Moderate,Moderate,Fair,Poor,High,137,105,256,162,Arthritis,Yes,13,Very High
+PAT00078,2025-12-09,71,Male,20.8,Former,Heavy,Regular,Excellent,Excellent,High,93,88,187,72,Arthritis,Yes,7,Moderate
+PAT00044,2023-10-17,58,Female,25.0,Former,Heavy,None,Excellent,Poor,Moderate,163,63,283,145,Heart Disease,No,12,High
+PAT00454,2023-05-31,58,Female,21.6,Never,Moderate,Intensive,Fair,Excellent,Very High,172,73,289,183,Arthritis,No,12,High
+PAT00455,2024-07-14,43,Female,19.1,Never,None,Intensive,Good,Excellent,Moderate,156,94,222,124,None,No,2,Low
+PAT00267,2023-10-27,38,Male,30.6,Never,Moderate,Rare,Good,Excellent,Low,97,113,245,136,Arthritis,No,9,High
+PAT00064,2020-07-14,33,Female,35.5,Current - Light,None,Regular,Good,Fair,Moderate,134,79,222,105,Arthritis,No,6,Moderate
+PAT00267,2022-10-11,31,Female,19.0,Former,Moderate,Regular,Poor,Fair,Very High,142,65,173,85,Heart Disease,Yes,10,High
+PAT00244,2022-05-29,75,Male,28.8,Current - Light,Heavy,Intensive,Excellent,Good,Very High,171,87,262,195,Arthritis,No,15,Very High
+PAT00422,2021-10-29,36,Male,22.7,Current - Heavy,Heavy,Rare,Poor,Fair,Very High,150,62,190,164,None,No,12,High
+PAT00057,2021-05-10,65,Female,23.6,Never,Light,None,Good,Good,High,128,78,274,77,Diabetes,Yes,10,High
+PAT00402,2024-09-23,24,Female,23.0,Current - Light,Light,Rare,Excellent,Poor,Low,160,82,167,81,Heart Disease,No,7,Moderate
+PAT00294,2023-06-22,75,Female,21.7,Current - Heavy,Heavy,Intensive,Fair,Fair,Very High,147,102,264,108,Arthritis,No,14,Very High
+PAT00046,2024-08-04,67,Male,26.2,Current - Heavy,Moderate,Intensive,Poor,Excellent,High,172,65,192,76,Asthma,No,13,Very High
+PAT00288,2021-05-22,28,Male,21.8,Never,Light,Regular,Poor,Poor,Moderate,92,77,202,132,Arthritis,No,6,Moderate
+PAT00044,2025-12-25,59,Female,27.4,Never,Heavy,None,Good,Excellent,Moderate,143,61,285,151,Heart Disease,No,12,High
+PAT00047,2021-04-14,30,Male,25.7,Current - Light,Light,Rare,Good,Poor,Moderate,129,120,254,113,None,No,6,Moderate
+PAT00093,2020-04-21,25,Female,24.8,Current - Heavy,None,Moderate,Fair,Excellent,High,123,84,180,83,Diabetes,Yes,8,High
+PAT00386,2022-08-26,81,Female,21.5,Never,Moderate,None,Good,Excellent,Very High,98,90,157,174,Arthritis,Yes,11,High
+PAT00468,2020-03-17,52,Male,23.1,Former,Light,Moderate,Excellent,Excellent,Low,171,92,202,106,Hypertension,Yes,7,Moderate
+PAT00401,2022-10-01,72,Female,29.8,Never,None,Regular,Good,Fair,Low,97,119,273,139,Asthma,No,9,High
+PAT00430,2024-04-06,62,Male,28.5,Current - Light,None,Rare,Poor,Good,Low,140,104,181,105,Arthritis,No,10,High
+PAT00450,2024-11-04,44,Female,21.1,Current - Light,Moderate,Regular,Good,Fair,High,133,73,267,154,None,Yes,8,High
+PAT00331,2020-01-09,78,Male,26.5,Never,Light,Regular,Excellent,Excellent,Low,173,101,169,77,Arthritis,No,7,Moderate
+PAT00345,2021-05-20,63,Female,29.8,Current - Light,Heavy,Rare,Poor,Poor,Very High,137,119,199,183,None,Yes,13,Very High
+PAT00381,2020-03-22,53,Female,17.7,Former,None,Intensive,Good,Fair,Moderate,153,83,159,141,Heart Disease,Yes,9,High
+PAT00004,2022-03-14,68,Male,28.7,Current - Light,Heavy,Rare,Fair,Fair,Low,165,68,166,102,Hypertension,Yes,12,High
+PAT00452,2025-11-12,53,Male,22.7,Never,Moderate,Intensive,Excellent,Poor,Very High,172,103,163,152,Heart Disease,No,9,High
+PAT00141,2021-05-13,84,Female,28.9,Current - Heavy,Moderate,Intensive,Poor,Fair,Low,125,118,257,184,Hypertension,Yes,15,Very High
+PAT00201,2022-03-08,60,Male,22.2,Never,Light,Regular,Poor,Fair,Moderate,111,81,229,86,Arthritis,Yes,6,Moderate
+PAT00015,2025-05-19,73,Male,17.0,Current - Light,Moderate,Rare,Poor,Excellent,Moderate,133,113,163,155,Asthma,Yes,12,High
+PAT00484,2020-10-25,74,Male,17.9,Current - Heavy,None,None,Poor,Poor,Very High,130,116,166,102,None,No,11,High
+PAT00029,2023-05-19,73,Male,26.2,Never,None,Intensive,Poor,Good,Very High,141,66,255,129,Asthma,Yes,16,Very High
+PAT00233,2024-04-21,77,Female,27.3,Never,Moderate,None,Excellent,Good,Moderate,103,66,153,87,Asthma,Yes,8,High
+PAT00464,2021-05-31,83,Female,21.5,Current - Light,Heavy,Regular,Excellent,Fair,Moderate,107,111,161,85,Diabetes,No,6,Moderate
+PAT00300,2024-11-20,83,Female,29.2,Current - Light,Light,Rare,Excellent,Good,High,127,83,152,107,None,Yes,8,High
+PAT00260,2020-08-11,72,Female,17.7,Former,Light,Rare,Poor,Good,Moderate,175,90,269,154,Asthma,No,14,Very High
+PAT00316,2023-05-12,71,Female,25.7,Former,None,Regular,Poor,Excellent,Moderate,90,100,207,128,Heart Disease,Yes,11,High
+PAT00123,2025-05-23,60,Female,19.9,Former,Heavy,Rare,Poor,Good,Low,99,82,157,99,Diabetes,No,7,Moderate
+PAT00226,2022-03-07,64,Male,22.7,Never,Light,Rare,Good,Fair,Moderate,123,106,194,156,Asthma,Yes,8,High
+PAT00092,2022-03-13,20,Male,26.2,Current - Light,None,None,Fair,Excellent,Low,133,119,203,148,Heart Disease,Yes,11,High
+PAT00190,2024-03-05,39,Female,21.7,Never,None,Rare,Fair,Fair,Moderate,158,84,245,151,Asthma,No,10,High
+PAT00326,2022-09-28,23,Male,24.1,Current - Light,Light,Moderate,Fair,Poor,High,106,114,280,195,Diabetes,Yes,11,High
+PAT00402,2025-04-11,26,Male,31.0,Current - Heavy,Moderate,Regular,Excellent,Fair,High,137,93,273,196,Heart Disease,No,12,High
+PAT00298,2024-06-30,22,Male,23.1,Former,Light,Regular,Fair,Excellent,Moderate,129,87,246,110,Hypertension,No,6,Moderate
+PAT00282,2020-12-13,35,Male,30.2,Current - Light,Heavy,Intensive,Good,Fair,Low,149,92,236,179,Heart Disease,No,10,High
+PAT00222,2024-08-02,65,Female,20.4,Current - Light,Moderate,Regular,Poor,Fair,Very High,119,76,169,161,None,No,10,High
+PAT00432,2025-08-17,83,Male,28.6,Current - Light,Light,None,Poor,Poor,High,94,94,201,155,Diabetes,No,14,Very High
+PAT00129,2023-05-24,53,Male,33.2,Former,Moderate,None,Good,Good,High,141,120,253,73,Heart Disease,Yes,14,Very High
+PAT00444,2024-06-16,47,Male,15.0,Former,Heavy,Rare,Excellent,Excellent,High,100,80,198,179,Arthritis,No,8,High
+PAT00108,2024-12-01,75,Male,22.0,Current - Light,Light,Intensive,Fair,Good,Low,153,111,240,156,Diabetes,No,11,High
+PAT00218,2024-07-10,56,Female,28.9,Never,None,Rare,Fair,Good,Very High,138,73,250,86,Asthma,No,10,High
+PAT00097,2025-04-28,31,Female,25.0,Current - Heavy,Moderate,None,Fair,Poor,Moderate,94,112,275,76,Diabetes,Yes,11,High
+PAT00036,2024-04-29,54,Male,27.9,Former,Moderate,Intensive,Poor,Excellent,Low,137,93,152,113,Hypertension,No,7,Moderate
+PAT00201,2021-10-05,32,Male,23.0,Current - Heavy,Heavy,None,Excellent,Fair,Moderate,116,79,260,191,Diabetes,No,11,High
+PAT00301,2022-04-11,82,Female,26.4,Current - Light,Light,None,Fair,Excellent,Low,141,98,213,154,Asthma,No,14,Very High
+PAT00236,2025-03-10,23,Male,25.2,Current - Light,Heavy,Moderate,Good,Excellent,Moderate,143,75,195,180,Heart Disease,No,9,High
+PAT00467,2022-01-21,30,Female,31.8,Never,Light,Rare,Good,Good,Low,179,106,205,196,Heart Disease,Yes,10,High
+PAT00189,2020-11-09,31,Female,27.3,Current - Heavy,Heavy,Rare,Good,Fair,Low,149,61,168,188,Heart Disease,No,11,High
+PAT00382,2024-06-23,42,Female,27.7,Never,None,Moderate,Poor,Fair,High,175,107,268,194,Heart Disease,Yes,13,Very High
+PAT00043,2022-09-19,74,Male,23.9,Current - Heavy,Moderate,Rare,Fair,Poor,Low,112,78,181,170,Diabetes,Yes,12,High
+PAT00344,2020-02-15,52,Male,23.6,Current - Heavy,Moderate,Rare,Fair,Poor,Moderate,146,104,162,96,Heart Disease,No,10,High
+PAT00228,2020-08-02,18,Male,23.8,Current - Heavy,Light,Rare,Good,Fair,Moderate,101,61,257,77,None,No,6,Moderate
+PAT00421,2022-02-26,26,Male,28.0,Never,Light,Rare,Poor,Excellent,Low,131,80,293,118,Asthma,Yes,9,High
+PAT00479,2024-06-06,72,Male,23.9,Former,Light,None,Good,Good,Moderate,91,85,230,73,Heart Disease,Yes,8,High
+PAT00235,2022-06-20,26,Female,27.4,Current - Light,None,None,Fair,Excellent,High,166,91,176,113,Hypertension,Yes,12,High
+PAT00308,2023-08-21,67,Male,36.4,Current - Light,Light,Moderate,Excellent,Poor,High,92,98,299,184,Heart Disease,Yes,14,Very High
+PAT00258,2020-02-24,47,Male,30.4,Never,Moderate,Rare,Excellent,Fair,Low,97,68,245,197,Hypertension,Yes,11,High
+PAT00078,2024-03-19,44,Male,24.4,Former,Heavy,Moderate,Fair,Good,High,172,110,160,176,Arthritis,No,9,High
+PAT00385,2020-04-07,47,Female,32.0,Current - Light,Light,Rare,Poor,Fair,Moderate,167,115,247,152,Diabetes,No,16,Very High
+PAT00323,2020-01-25,26,Female,24.0,Never,Light,None,Fair,Fair,Moderate,101,71,290,122,Diabetes,Yes,8,High
+PAT00219,2025-03-28,57,Male,15.8,Former,Light,Regular,Fair,Fair,High,126,96,264,121,Hypertension,No,8,High
+PAT00041,2024-01-12,68,Female,21.0,Former,Heavy,Regular,Excellent,Excellent,Moderate,151,61,247,179,None,No,9,High
+PAT00305,2021-09-17,40,Female,16.6,Current - Heavy,Heavy,Moderate,Excellent,Good,Very High,161,98,273,88,Hypertension,Yes,12,High
+PAT00367,2025-04-06,43,Male,24.2,Former,None,None,Good,Excellent,Very High,143,120,251,165,Heart Disease,No,13,Very High
+PAT00158,2020-10-18,70,Male,26.1,Never,Heavy,Intensive,Fair,Fair,Very High,122,109,239,200,Arthritis,No,10,High
+PAT00326,2024-02-17,25,Female,34.4,Current - Heavy,Light,Rare,Excellent,Poor,High,170,105,157,107,Hypertension,No,11,High
+PAT00484,2021-08-26,50,Male,27.6,Former,None,None,Poor,Excellent,Very High,180,97,170,118,Heart Disease,Yes,14,Very High
+PAT00425,2024-10-14,50,Female,24.9,Current - Heavy,Moderate,Regular,Poor,Poor,High,108,77,203,171,Arthritis,No,11,High
+PAT00004,2021-11-20,80,Male,30.1,Never,None,Regular,Excellent,Good,Very High,111,71,245,117,Arthritis,Yes,11,High
+PAT00102,2025-06-15,41,Male,15.0,Current - Heavy,Light,Rare,Fair,Poor,Moderate,114,76,254,182,Arthritis,Yes,12,High
+PAT00445,2021-11-11,28,Female,27.2,Never,Heavy,None,Good,Poor,High,93,97,210,192,Heart Disease,Yes,9,High
+PAT00005,2020-09-07,52,Male,29.9,Never,None,Rare,Poor,Excellent,High,152,90,236,179,Hypertension,No,12,High
+PAT00350,2023-11-06,58,Male,18.6,Current - Light,Heavy,Regular,Poor,Good,High,102,60,266,172,Arthritis,Yes,13,Very High
+PAT00014,2021-05-18,85,Female,31.7,Former,Moderate,Regular,Excellent,Excellent,Moderate,90,100,232,74,Arthritis,No,7,Moderate
+PAT00448,2020-07-06,59,Female,27.7,Former,Heavy,Regular,Poor,Good,Very High,150,102,175,168,Hypertension,Yes,14,Very High
+PAT00365,2021-08-09,84,Male,23.9,Former,Heavy,None,Good,Excellent,Moderate,147,67,273,131,Diabetes,Yes,14,Very High
+PAT00088,2021-01-01,31,Female,29.2,Never,Light,Moderate,Excellent,Good,Moderate,122,102,271,101,Arthritis,Yes,6,Moderate
+PAT00473,2025-12-29,80,Male,37.4,Current - Light,Light,Intensive,Poor,Good,Very High,138,101,293,181,Diabetes,Yes,17,Very High
+PAT00133,2021-04-18,55,Male,26.9,Never,None,Moderate,Fair,Poor,High,106,114,230,167,Asthma,Yes,9,High
+PAT00160,2020-09-10,42,Female,27.2,Current - Heavy,Moderate,Moderate,Fair,Fair,Low,140,60,287,187,Hypertension,Yes,12,High
+PAT00418,2023-04-30,46,Female,23.7,Current - Heavy,Light,Intensive,Good,Fair,Low,166,80,229,198,Arthritis,Yes,11,High
+PAT00141,2025-05-13,45,Female,21.8,Current - Light,Heavy,None,Good,Fair,Moderate,118,104,163,115,Heart Disease,No,6,Moderate
+PAT00154,2021-10-14,20,Female,30.2,Current - Light,Heavy,Regular,Good,Excellent,Very High,99,93,222,142,Arthritis,Yes,11,High
+PAT00359,2024-05-31,30,Male,21.7,Current - Light,None,Moderate,Excellent,Fair,Moderate,146,104,273,144,Diabetes,Yes,11,High
+PAT00112,2022-03-12,19,Female,26.4,Never,Light,Regular,Excellent,Fair,Low,102,82,271,115,None,Yes,4,Moderate
+PAT00264,2023-10-18,73,Male,23.6,Current - Heavy,Light,None,Poor,Fair,Very High,152,79,194,166,Arthritis,Yes,18,Very High
+PAT00399,2025-03-14,66,Female,28.4,Current - Heavy,Moderate,None,Poor,Poor,Low,105,91,280,127,None,No,14,Very High
+PAT00141,2021-01-22,41,Female,27.7,Current - Heavy,Heavy,Moderate,Fair,Poor,High,98,105,287,117,Heart Disease,Yes,11,High
+PAT00202,2025-12-11,80,Male,31.2,Never,Light,None,Fair,Fair,Low,161,88,230,101,None,Yes,10,High
+PAT00295,2022-04-24,38,Male,23.4,Current - Light,None,None,Poor,Good,High,159,70,258,70,Diabetes,No,13,Very High
+PAT00024,2025-10-28,55,Female,24.7,Former,Heavy,Moderate,Good,Fair,Low,174,112,161,130,None,Yes,7,Moderate
+PAT00073,2023-05-12,45,Male,21.1,Former,Moderate,Moderate,Fair,Excellent,Low,160,76,216,167,Arthritis,Yes,9,High
+PAT00205,2025-02-11,28,Female,23.8,Current - Heavy,Light,Intensive,Fair,Poor,High,171,104,199,165,Asthma,Yes,12,High
+PAT00215,2021-09-20,58,Female,27.9,Current - Heavy,None,Intensive,Fair,Poor,High,105,94,178,174,None,No,9,High
+PAT00328,2020-12-30,64,Female,29.8,Current - Light,Light,Rare,Good,Poor,Low,138,74,246,96,None,Yes,9,High
+PAT00270,2023-06-09,80,Male,21.4,Current - Light,Moderate,Intensive,Good,Poor,Low,111,80,249,116,Hypertension,No,8,High
+PAT00245,2021-06-06,51,Male,30.3,Former,Light,Rare,Excellent,Good,Low,171,83,213,177,Arthritis,No,11,High
+PAT00094,2024-12-02,63,Female,32.8,Current - Light,Moderate,Regular,Fair,Good,Low,129,86,230,93,Arthritis,Yes,10,High
+PAT00040,2022-09-10,29,Male,28.1,Never,None,Moderate,Excellent,Poor,Very High,176,92,184,192,Heart Disease,Yes,10,High
+PAT00208,2020-02-26,42,Male,35.4,Current - Heavy,Moderate,Rare,Poor,Excellent,Moderate,176,119,284,127,Diabetes,Yes,17,Very High
+PAT00188,2021-06-30,83,Female,22.1,Never,Heavy,Regular,Excellent,Fair,High,104,81,213,100,Hypertension,No,5,Moderate
+PAT00248,2023-04-17,51,Male,19.8,Never,Heavy,Rare,Good,Poor,Very High,169,114,274,84,Hypertension,Yes,11,High
+PAT00316,2025-02-28,60,Female,17.1,Current - Light,None,None,Good,Fair,Very High,135,60,175,180,Heart Disease,Yes,12,High
+PAT00044,2025-12-07,83,Male,33.5,Current - Heavy,None,Regular,Poor,Fair,High,118,90,251,165,Hypertension,No,16,Very High
+PAT00220,2022-01-16,52,Male,29.3,Current - Heavy,Heavy,Rare,Fair,Good,Very High,90,82,200,98,Diabetes,No,11,High
+PAT00021,2021-07-01,68,Female,25.7,Current - Light,None,Rare,Fair,Excellent,High,105,86,275,196,Arthritis,Yes,15,Very High
+PAT00167,2024-06-25,82,Female,27.4,Former,None,None,Poor,Fair,Moderate,134,92,153,130,None,No,10,High
+PAT00220,2020-02-02,73,Female,20.4,Current - Light,Moderate,Regular,Poor,Excellent,Moderate,169,69,280,117,Diabetes,No,12,High
+PAT00393,2021-04-16,51,Male,38.2,Current - Heavy,Light,Regular,Poor,Fair,Moderate,165,100,188,128,None,Yes,13,Very High
+PAT00206,2020-06-06,53,Male,26.6,Former,Heavy,None,Fair,Poor,Low,138,86,284,148,Arthritis,Yes,13,Very High
+PAT00114,2023-10-08,72,Female,26.5,Never,Heavy,None,Good,Poor,High,136,77,239,177,Diabetes,No,10,High
+PAT00459,2020-07-13,41,Male,29.6,Never,None,Moderate,Fair,Good,Very High,125,118,175,180,Diabetes,No,8,High
+PAT00486,2025-07-05,64,Female,28.4,Current - Light,None,None,Poor,Fair,High,136,107,242,165,Diabetes,No,16,Very High
+PAT00108,2024-04-22,29,Male,27.1,Former,None,None,Fair,Fair,Very High,102,64,289,157,Hypertension,No,13,Very High
+PAT00390,2022-04-07,37,Male,22.0,Former,Light,Regular,Good,Good,High,147,100,180,181,None,No,6,Moderate
+PAT00215,2025-11-15,82,Male,28.4,Former,Moderate,Rare,Good,Poor,Low,178,72,251,196,Arthritis,Yes,14,Very High
+PAT00085,2024-11-28,83,Female,35.4,Current - Heavy,Heavy,Intensive,Good,Fair,Moderate,90,70,296,125,Asthma,Yes,12,High
+PAT00451,2025-10-01,76,Female,32.7,Current - Light,Light,Moderate,Good,Poor,Moderate,118,62,286,130,Hypertension,Yes,13,Very High
+PAT00328,2021-08-29,53,Male,34.0,Current - Light,None,Rare,Fair,Poor,Low,173,82,244,153,None,No,13,Very High
+PAT00370,2021-07-01,70,Female,23.4,Current - Light,None,None,Good,Fair,High,112,76,154,97,Arthritis,No,9,High
+PAT00485,2022-11-20,44,Female,21.1,Former,Moderate,Moderate,Fair,Excellent,Moderate,147,74,261,164,Diabetes,No,10,High
+PAT00048,2025-07-24,41,Female,25.4,Former,Light,Rare,Excellent,Fair,High,92,79,191,115,Heart Disease,Yes,7,Moderate
+PAT00036,2021-08-10,27,Female,26.3,Former,Heavy,Regular,Poor,Fair,Low,167,66,246,168,None,Yes,11,High
+PAT00424,2020-02-25,23,Male,31.5,Former,None,Moderate,Fair,Poor,Low,103,94,236,91,Diabetes,Yes,7,Moderate
+PAT00246,2024-12-24,38,Female,17.5,Current - Light,Heavy,Rare,Fair,Poor,High,170,94,181,75,None,Yes,8,High
+PAT00279,2023-04-30,31,Female,33.6,Former,None,Rare,Poor,Fair,Very High,139,69,240,143,Diabetes,No,12,High
+PAT00352,2021-04-05,80,Male,25.2,Never,Light,None,Good,Good,Low,168,81,180,162,None,Yes,10,High
+PAT00310,2021-09-10,40,Female,23.9,Current - Light,Light,Regular,Fair,Good,High,134,116,176,139,Heart Disease,No,8,High
+PAT00478,2022-12-23,27,Male,20.9,Former,Light,Moderate,Fair,Excellent,Very High,151,112,167,98,Asthma,No,8,High
+PAT00492,2023-02-14,36,Male,17.7,Current - Light,Light,Rare,Excellent,Good,High,153,87,273,175,Asthma,No,12,High
+PAT00071,2022-10-04,67,Female,30.1,Current - Heavy,Heavy,Intensive,Fair,Excellent,Low,164,105,257,126,Arthritis,Yes,15,Very High
+PAT00121,2024-01-21,18,Male,26.4,Never,Moderate,Intensive,Excellent,Fair,Low,97,118,239,162,Diabetes,No,5,Moderate
+PAT00236,2021-08-13,71,Male,19.6,Former,Light,None,Fair,Poor,Moderate,138,106,156,178,Hypertension,Yes,11,High
+PAT00360,2021-03-10,27,Female,19.5,Former,None,Rare,Good,Fair,Low,121,64,153,176,Diabetes,Yes,7,Moderate
+PAT00241,2021-07-27,85,Female,24.3,Current - Heavy,Heavy,Moderate,Excellent,Poor,High,104,69,165,78,Asthma,Yes,9,High
+PAT00258,2021-10-18,19,Female,34.3,Current - Heavy,Heavy,Intensive,Good,Good,Moderate,144,119,190,139,None,No,9,High
+PAT00487,2021-05-27,45,Female,24.7,Never,Light,Regular,Fair,Poor,Very High,151,80,253,167,Diabetes,Yes,12,High
+PAT00412,2024-03-01,72,Male,18.5,Current - Light,None,None,Poor,Good,High,93,75,222,111,Asthma,Yes,12,High
+PAT00034,2022-05-17,19,Female,24.8,Former,Light,None,Fair,Good,Low,162,96,161,193,None,Yes,9,High
+PAT00162,2021-01-16,57,Male,24.6,Current - Light,Moderate,Regular,Fair,Good,Very High,135,68,174,154,Heart Disease,Yes,11,High
+PAT00258,2021-09-07,21,Female,15.0,Current - Heavy,None,Moderate,Fair,Fair,Very High,100,116,173,129,Diabetes,Yes,11,High
+PAT00394,2021-10-21,82,Female,25.7,Current - Heavy,Light,Moderate,Good,Good,Very High,95,117,249,131,Diabetes,Yes,15,Very High
+PAT00491,2021-09-16,81,Male,24.8,Never,Light,Moderate,Poor,Excellent,Low,148,80,193,145,Diabetes,Yes,11,High
+PAT00144,2024-01-28,63,Male,29.5,Never,Light,Regular,Good,Excellent,High,146,101,185,101,Asthma,No,8,High
+PAT00021,2024-01-28,54,Female,35.2,Current - Heavy,Light,Regular,Good,Good,High,100,103,255,199,Heart Disease,No,13,Very High
+PAT00450,2020-06-23,25,Male,31.6,Never,Light,None,Good,Excellent,Moderate,162,85,168,127,Heart Disease,No,10,High
+PAT00343,2021-01-17,62,Female,24.7,Current - Heavy,Heavy,None,Poor,Fair,Low,140,109,260,121,Heart Disease,No,13,Very High
+PAT00034,2023-07-23,61,Female,20.5,Former,Heavy,None,Good,Excellent,Low,159,69,270,107,Arthritis,Yes,12,High
+PAT00164,2020-05-08,66,Male,38.9,Current - Light,Heavy,Regular,Fair,Poor,Moderate,92,120,258,139,Hypertension,Yes,14,Very High
+PAT00043,2021-08-03,26,Female,26.3,Current - Heavy,None,Moderate,Excellent,Excellent,Moderate,175,117,216,117,None,Yes,7,Moderate
+PAT00459,2024-10-21,61,Female,26.1,Former,Light,Moderate,Excellent,Excellent,Very High,158,104,191,181,Hypertension,No,12,High
+PAT00422,2020-02-10,43,Male,25.9,Former,Moderate,Moderate,Poor,Fair,Very High,108,91,231,99,Arthritis,No,8,High
+PAT00135,2025-11-02,18,Female,27.0,Former,Heavy,Intensive,Poor,Poor,Moderate,114,86,289,112,Asthma,No,8,High
+PAT00111,2023-11-26,44,Male,25.3,Never,Moderate,Moderate,Poor,Good,High,154,112,181,197,Arthritis,No,10,High
+PAT00212,2024-08-07,63,Female,23.1,Current - Heavy,Moderate,None,Fair,Excellent,Very High,137,71,291,111,Asthma,No,14,Very High
+PAT00196,2023-03-13,73,Female,23.3,Never,None,None,Poor,Poor,Very High,103,91,289,95,Arthritis,No,12,High
+PAT00258,2020-05-13,55,Female,25.8,Former,Light,Regular,Excellent,Poor,Moderate,150,120,181,159,Heart Disease,No,9,High
+PAT00465,2024-06-09,18,Female,23.3,Former,Moderate,Moderate,Good,Good,Very High,176,75,151,176,None,Yes,8,High
+PAT00014,2021-09-20,65,Female,22.4,Current - Light,Light,Intensive,Excellent,Fair,Very High,114,99,250,83,Asthma,No,10,High
+PAT00066,2024-05-18,40,Female,26.5,Current - Light,Light,Regular,Fair,Poor,Moderate,154,67,297,170,Arthritis,No,12,High
+PAT00429,2021-10-13,59,Male,24.7,Never,None,None,Excellent,Poor,Moderate,93,99,289,90,Asthma,No,7,Moderate
+PAT00013,2021-06-18,76,Female,33.5,Former,Light,Rare,Good,Fair,Moderate,138,109,216,83,Hypertension,Yes,9,High
+PAT00479,2021-08-11,20,Male,15.0,Never,Heavy,Intensive,Poor,Poor,Moderate,126,76,196,93,None,No,2,Low
+PAT00433,2024-01-20,44,Female,31.5,Never,Heavy,None,Excellent,Poor,Very High,170,64,203,177,Heart Disease,No,12,High
+PAT00325,2025-01-20,38,Male,32.2,Current - Light,None,Rare,Poor,Poor,High,134,90,289,71,Diabetes,No,12,High
+PAT00475,2021-05-13,42,Male,15.6,Never,Light,Rare,Good,Poor,Moderate,93,80,185,126,None,Yes,2,Low
+PAT00138,2023-01-25,79,Male,24.3,Never,Moderate,Intensive,Good,Excellent,Very High,145,92,252,119,Hypertension,Yes,11,High
+PAT00102,2023-02-25,68,Male,24.1,Current - Light,Light,Rare,Excellent,Excellent,Very High,144,98,219,151,Asthma,Yes,14,Very High
+PAT00311,2024-04-17,72,Male,19.0,Current - Light,Moderate,None,Excellent,Fair,Low,155,76,300,174,Hypertension,No,14,Very High
+PAT00204,2020-05-02,32,Male,22.1,Current - Light,Heavy,Rare,Good,Fair,Low,117,102,245,165,Diabetes,No,9,High
+PAT00063,2020-02-09,58,Male,20.4,Current - Light,Light,Regular,Good,Fair,Low,139,78,204,125,None,No,3,Low
+PAT00367,2020-11-02,71,Female,34.8,Current - Light,Moderate,Rare,Fair,Poor,Very High,153,62,220,177,None,Yes,15,Very High
+PAT00232,2021-12-01,59,Female,30.7,Former,None,Moderate,Poor,Poor,Very High,126,68,253,79,Asthma,Yes,13,Very High
+PAT00173,2020-03-07,26,Female,32.4,Never,Heavy,Moderate,Good,Good,High,141,65,292,150,Heart Disease,Yes,12,High
+PAT00202,2023-05-07,76,Female,29.6,Never,Moderate,Intensive,Poor,Poor,Moderate,96,112,152,105,None,No,5,Moderate
+PAT00442,2024-11-19,46,Male,20.4,Never,Light,Moderate,Poor,Poor,High,95,67,162,147,None,No,6,Moderate
+PAT00169,2024-04-03,52,Male,23.4,Former,Heavy,None,Fair,Good,Moderate,164,116,255,184,Arthritis,Yes,14,Very High
+PAT00268,2025-12-01,48,Female,28.4,Current - Heavy,Moderate,Moderate,Excellent,Fair,Low,123,109,225,91,Hypertension,Yes,8,High
+PAT00338,2022-04-23,27,Male,19.9,Current - Heavy,None,Rare,Poor,Fair,Very High,139,72,274,96,Hypertension,Yes,13,Very High
+PAT00417,2025-12-01,83,Female,29.6,Current - Light,Heavy,Rare,Poor,Fair,Moderate,136,84,265,121,Heart Disease,Yes,13,Very High
+PAT00036,2023-02-12,72,Male,24.8,Current - Light,None,Rare,Excellent,Poor,Low,120,61,267,117,Hypertension,Yes,10,High
+PAT00244,2025-12-14,75,Female,24.1,Current - Light,None,Intensive,Poor,Good,Very High,117,69,251,198,Heart Disease,No,14,Very High
+PAT00028,2024-12-12,52,Female,29.6,Never,None,Regular,Excellent,Fair,High,114,85,195,140,Asthma,No,7,Moderate
+PAT00266,2024-11-10,31,Male,28.2,Former,None,Rare,Poor,Poor,Low,163,77,211,86,Asthma,Yes,10,High
+PAT00142,2022-07-16,69,Female,24.2,Current - Heavy,None,Rare,Good,Excellent,Moderate,111,110,202,158,Arthritis,No,10,High
+PAT00362,2023-03-25,18,Male,31.8,Former,Heavy,Moderate,Fair,Fair,High,177,64,192,117,Hypertension,No,9,High
+PAT00073,2020-02-22,78,Female,20.6,Current - Light,None,Rare,Good,Poor,Moderate,176,108,152,160,Heart Disease,Yes,12,High
+PAT00251,2022-10-10,78,Male,29.1,Never,None,Intensive,Good,Fair,Moderate,108,109,174,95,Hypertension,No,5,Moderate
+PAT00232,2025-07-02,62,Female,29.0,Current - Heavy,Moderate,Moderate,Excellent,Poor,High,128,105,235,193,None,No,9,High
+PAT00352,2025-10-28,20,Male,24.5,Current - Heavy,Light,Rare,Good,Excellent,Low,121,96,260,162,Diabetes,Yes,11,High
+PAT00100,2024-03-27,31,Female,27.6,Current - Heavy,Light,Moderate,Good,Good,Very High,165,86,220,149,Diabetes,Yes,13,Very High
+PAT00297,2025-10-31,61,Male,19.7,Current - Heavy,Heavy,Intensive,Good,Good,Low,91,91,187,189,Arthritis,Yes,10,High
+PAT00268,2023-04-01,38,Female,30.6,Current - Heavy,Moderate,None,Good,Poor,Very High,95,73,222,101,None,No,9,High
+PAT00157,2020-01-21,73,Female,25.1,Never,None,Moderate,Fair,Good,High,154,102,293,109,None,No,9,High
+PAT00074,2022-03-16,73,Male,23.4,Current - Light,Light,None,Excellent,Good,Moderate,176,100,248,178,Heart Disease,Yes,15,Very High
+PAT00458,2022-12-06,56,Female,31.2,Former,Heavy,Moderate,Fair,Fair,High,107,86,291,121,Hypertension,No,10,High
+PAT00044,2023-05-02,77,Male,22.5,Current - Heavy,Heavy,None,Fair,Excellent,High,154,119,241,189,Hypertension,No,17,Very High
+PAT00239,2024-09-18,70,Female,19.0,Never,None,Regular,Poor,Fair,High,121,97,281,165,Diabetes,No,11,High
+PAT00028,2024-05-27,34,Female,18.2,Never,Heavy,Intensive,Excellent,Poor,Low,97,77,177,155,Asthma,Yes,5,Moderate
+PAT00421,2023-04-05,79,Female,29.0,Never,None,Intensive,Poor,Fair,Moderate,161,107,276,104,Diabetes,Yes,12,High
+PAT00155,2023-06-27,18,Female,19.6,Former,None,None,Poor,Fair,Low,156,66,213,122,None,No,7,Moderate
+PAT00013,2025-09-02,74,Female,34.8,Never,None,Moderate,Excellent,Excellent,Moderate,120,113,289,136,Asthma,No,10,High
+PAT00440,2021-05-19,73,Male,15.6,Never,Light,Rare,Fair,Fair,Moderate,150,90,224,144,Arthritis,Yes,11,High
+PAT00492,2025-07-12,65,Female,34.5,Current - Heavy,Heavy,None,Excellent,Excellent,Very High,108,61,222,187,None,No,13,Very High
+PAT00006,2023-05-25,22,Female,27.1,Never,Moderate,Rare,Excellent,Excellent,High,91,70,241,198,Asthma,Yes,10,High
+PAT00179,2025-11-20,67,Male,25.5,Former,Light,Moderate,Good,Excellent,Moderate,125,110,227,170,None,No,6,Moderate
+PAT00193,2025-04-16,41,Female,23.3,Former,Moderate,Intensive,Good,Excellent,Low,95,61,190,129,None,Yes,4,Moderate
+PAT00256,2025-05-05,59,Male,28.0,Former,None,Rare,Excellent,Excellent,Low,97,99,214,99,None,Yes,5,Moderate
+PAT00227,2024-03-13,21,Male,25.8,Current - Light,None,Regular,Excellent,Fair,Moderate,115,76,275,182,Arthritis,No,9,High
+PAT00116,2022-04-04,38,Female,31.5,Former,None,Intensive,Poor,Poor,Moderate,94,111,185,71,Hypertension,No,7,Moderate
+PAT00291,2020-10-21,61,Male,26.6,Current - Heavy,Light,Rare,Excellent,Good,High,169,117,293,105,None,No,12,High
+PAT00219,2024-03-20,27,Male,26.8,Former,Moderate,None,Poor,Excellent,Moderate,96,98,288,154,None,Yes,11,High
+PAT00421,2023-04-02,50,Female,24.2,Current - Light,None,Rare,Good,Poor,Moderate,156,119,278,149,Heart Disease,Yes,13,Very High
+PAT00280,2021-03-30,78,Female,25.7,Never,None,Moderate,Excellent,Good,Moderate,132,116,165,105,Diabetes,No,5,Moderate
+PAT00474,2020-09-12,48,Female,27.5,Never,None,Moderate,Poor,Excellent,Low,160,90,183,139,Arthritis,Yes,11,High
+PAT00054,2020-05-25,81,Male,17.4,Current - Light,Heavy,Regular,Good,Fair,Low,97,61,200,167,Arthritis,Yes,9,High
+PAT00283,2025-05-28,24,Female,19.3,Current - Heavy,Light,Regular,Excellent,Fair,Low,146,67,244,160,Diabetes,No,11,High
+PAT00224,2020-08-25,48,Male,29.7,Never,None,Rare,Excellent,Poor,Low,121,112,164,89,None,Yes,4,Moderate
+PAT00225,2022-01-09,54,Male,26.9,Current - Light,Moderate,Intensive,Fair,Good,Moderate,167,85,272,101,Arthritis,Yes,12,High
+PAT00040,2022-10-21,44,Female,25.1,Current - Light,Light,Regular,Good,Good,High,173,75,284,138,Hypertension,Yes,13,Very High
+PAT00028,2023-11-20,70,Female,26.1,Current - Light,None,Rare,Fair,Fair,High,160,73,181,165,Arthritis,Yes,15,Very High
+PAT00019,2022-08-20,74,Female,27.7,Never,None,Regular,Poor,Good,High,165,84,226,91,None,No,8,High
+PAT00438,2024-04-21,81,Male,23.3,Current - Heavy,Heavy,Regular,Poor,Fair,Moderate,138,71,260,83,Arthritis,No,11,High
+PAT00017,2023-11-25,21,Female,22.1,Current - Light,Light,None,Good,Excellent,Very High,97,111,177,169,Arthritis,No,10,High
+PAT00440,2025-12-30,77,Female,27.0,Current - Light,Light,Regular,Excellent,Fair,Moderate,91,77,220,91,Diabetes,No,7,Moderate
+PAT00173,2024-06-04,22,Female,21.1,Current - Light,Moderate,Moderate,Poor,Poor,High,162,102,232,137,Diabetes,No,11,High
+PAT00237,2020-03-11,74,Male,28.0,Current - Heavy,None,Moderate,Excellent,Fair,Very High,97,97,170,140,Asthma,No,12,High
+PAT00489,2020-09-19,74,Male,17.5,Current - Light,Moderate,Moderate,Excellent,Fair,Moderate,170,71,187,82,Diabetes,Yes,9,High
+PAT00336,2020-06-06,41,Female,31.1,Current - Light,None,Intensive,Fair,Poor,High,122,61,240,81,Asthma,Yes,9,High
+PAT00180,2021-03-23,27,Female,28.4,Never,None,Rare,Fair,Good,High,177,86,168,179,Hypertension,Yes,11,High
+PAT00013,2023-08-30,64,Female,27.3,Current - Heavy,Moderate,Regular,Good,Poor,Moderate,137,62,224,108,Asthma,Yes,9,High
+PAT00055,2022-05-16,58,Female,30.9,Former,Heavy,Intensive,Poor,Fair,Very High,173,65,169,127,Asthma,No,14,Very High
+PAT00276,2021-05-11,85,Male,34.3,Current - Heavy,Heavy,Moderate,Good,Fair,High,121,81,212,162,Diabetes,No,12,High
+PAT00162,2021-04-17,48,Female,31.1,Current - Heavy,Moderate,None,Good,Poor,High,173,90,208,184,Heart Disease,Yes,16,Very High
+PAT00292,2021-05-28,49,Female,16.8,Former,Moderate,Moderate,Good,Good,Low,100,86,257,199,Diabetes,No,8,High
+PAT00324,2022-03-22,41,Female,19.6,Never,Light,None,Excellent,Good,Very High,102,68,158,180,None,Yes,7,Moderate
+PAT00038,2021-06-26,83,Female,22.9,Current - Heavy,Moderate,Rare,Excellent,Fair,High,105,81,236,97,Arthritis,Yes,10,High
+PAT00038,2023-12-24,75,Female,26.1,Current - Heavy,Heavy,Moderate,Excellent,Fair,Moderate,165,118,280,91,Diabetes,Yes,13,Very High
+PAT00304,2024-02-24,76,Female,28.6,Current - Light,Heavy,Rare,Good,Poor,Moderate,128,91,237,82,Asthma,No,8,High
+PAT00147,2023-08-15,67,Female,22.4,Former,Light,None,Fair,Excellent,High,163,116,230,95,Hypertension,No,11,High
+PAT00085,2021-04-30,54,Female,26.9,Current - Heavy,Heavy,Rare,Fair,Good,High,167,108,177,129,Arthritis,No,14,Very High
+PAT00073,2021-01-28,44,Male,22.2,Never,None,Intensive,Fair,Poor,Very High,93,83,202,142,Asthma,No,7,Moderate
+PAT00375,2024-12-27,84,Male,22.9,Current - Heavy,Moderate,None,Poor,Excellent,Very High,153,76,172,105,Hypertension,Yes,16,Very High
+PAT00496,2023-12-19,28,Male,19.0,Never,Moderate,Rare,Good,Good,Very High,170,107,281,88,Arthritis,No,9,High
+PAT00457,2020-06-06,73,Male,21.4,Current - Light,Light,Intensive,Poor,Poor,Moderate,107,97,246,126,Arthritis,Yes,11,High
+PAT00136,2025-04-09,37,Female,19.2,Former,Heavy,Moderate,Fair,Fair,Low,156,114,204,70,Heart Disease,Yes,7,Moderate
+PAT00252,2022-05-04,40,Male,21.1,Current - Heavy,Moderate,Intensive,Excellent,Fair,High,151,93,196,146,Diabetes,No,10,High
+PAT00343,2025-06-09,80,Female,31.3,Current - Light,Heavy,Moderate,Poor,Fair,Low,126,86,264,153,Diabetes,No,14,Very High
+PAT00060,2021-12-22,77,Female,21.3,Never,Moderate,Regular,Fair,Excellent,Very High,166,86,210,77,Hypertension,No,9,High
+PAT00260,2022-05-31,70,Male,39.2,Current - Light,Moderate,Moderate,Excellent,Excellent,Very High,144,85,216,83,Hypertension,No,12,High
+PAT00373,2022-06-15,61,Male,28.5,Current - Light,Heavy,Regular,Fair,Fair,Moderate,170,67,234,103,Asthma,Yes,11,High
+PAT00487,2020-03-27,66,Male,26.9,Current - Light,Moderate,Intensive,Poor,Poor,Moderate,136,94,200,110,Asthma,No,9,High
+PAT00441,2022-07-28,55,Male,21.7,Current - Light,Moderate,Regular,Fair,Fair,Low,94,114,155,96,Asthma,No,6,Moderate
+PAT00406,2025-06-09,23,Male,29.5,Current - Light,Moderate,None,Fair,Fair,Low,124,107,181,166,Arthritis,No,10,High
+PAT00068,2023-01-10,28,Male,23.1,Never,Heavy,None,Poor,Fair,Low,165,110,250,119,Asthma,No,10,High
+PAT00402,2023-08-18,72,Male,26.6,Current - Light,Moderate,Regular,Fair,Poor,High,173,96,270,166,Hypertension,No,15,Very High
+PAT00048,2022-06-29,70,Female,38.8,Current - Heavy,Moderate,Intensive,Fair,Excellent,Low,153,106,250,165,Asthma,Yes,17,Very High
+PAT00232,2022-07-06,21,Female,25.5,Former,Heavy,Moderate,Excellent,Poor,High,132,69,171,94,Asthma,Yes,6,Moderate
+PAT00107,2025-06-29,49,Male,31.7,Former,Heavy,Intensive,Excellent,Fair,Low,153,76,255,149,Arthritis,No,12,High
+PAT00428,2021-09-08,22,Female,22.5,Current - Heavy,None,Moderate,Fair,Excellent,Very High,130,101,210,152,Heart Disease,No,10,High
+PAT00264,2020-11-29,31,Female,25.8,Never,Heavy,Rare,Poor,Fair,Low,111,72,262,99,None,No,6,Moderate
+PAT00254,2021-11-30,85,Female,34.9,Former,Heavy,Regular,Poor,Good,Low,145,78,219,152,Asthma,No,13,Very High
+PAT00289,2021-11-10,36,Female,22.9,Former,Moderate,Intensive,Good,Excellent,Very High,116,119,234,104,Diabetes,No,5,Moderate
+PAT00006,2023-07-25,71,Male,35.1,Former,Heavy,None,Poor,Good,Moderate,115,104,174,187,Hypertension,Yes,14,Very High
+PAT00032,2025-04-03,38,Male,29.5,Current - Light,Light,Moderate,Poor,Fair,High,126,112,259,148,Hypertension,No,12,High
+PAT00479,2022-11-09,43,Male,23.2,Former,None,Rare,Good,Fair,High,162,66,182,168,Hypertension,No,9,High
+PAT00495,2025-04-23,44,Male,29.2,Never,Light,Rare,Poor,Fair,Moderate,111,90,150,152,None,Yes,7,Moderate
+PAT00071,2025-09-26,74,Female,30.9,Current - Heavy,Moderate,Moderate,Poor,Fair,Very High,138,109,248,191,Hypertension,No,17,Very High
+PAT00430,2025-11-08,58,Male,29.1,Former,Light,Moderate,Fair,Excellent,Very High,152,104,214,100,Asthma,No,10,High
+PAT00334,2023-11-27,40,Male,18.1,Current - Light,Heavy,Moderate,Excellent,Fair,Moderate,138,83,195,72,Diabetes,No,4,Moderate
+PAT00185,2025-11-24,42,Male,22.4,Current - Light,Moderate,None,Good,Good,Low,167,77,158,140,Arthritis,No,10,High
+PAT00204,2020-06-28,50,Female,24.8,Never,None,Regular,Excellent,Excellent,Moderate,150,107,289,96,None,No,5,Moderate
+PAT00015,2021-09-19,40,Male,25.6,Never,Heavy,None,Poor,Excellent,Low,130,66,289,141,Diabetes,Yes,12,High
+PAT00171,2023-07-20,39,Female,29.1,Never,Heavy,Regular,Poor,Poor,Moderate,154,69,218,91,Diabetes,No,7,Moderate
+PAT00023,2023-02-02,43,Female,26.9,Former,None,Moderate,Good,Good,Low,133,89,295,92,Asthma,No,6,Moderate
+PAT00046,2021-04-21,29,Male,19.3,Never,Light,Moderate,Poor,Fair,Low,117,100,245,187,None,Yes,7,Moderate
+PAT00158,2022-02-21,34,Female,27.9,Never,Heavy,Moderate,Fair,Good,Moderate,162,80,255,127,Diabetes,No,10,High
+PAT00453,2022-03-27,40,Female,29.1,Current - Light,Heavy,Moderate,Poor,Excellent,High,164,83,239,185,Arthritis,Yes,13,Very High
+PAT00019,2024-04-28,37,Male,28.8,Current - Heavy,Moderate,Moderate,Fair,Good,High,101,92,203,136,Diabetes,No,10,High
+PAT00134,2020-05-08,32,Male,31.4,Current - Heavy,Light,Regular,Good,Good,Very High,174,97,158,152,Arthritis,Yes,14,Very High
+PAT00323,2024-01-09,19,Male,30.2,Current - Heavy,Heavy,Moderate,Good,Poor,Moderate,135,79,191,189,Asthma,Yes,10,High
+PAT00386,2020-03-30,74,Female,28.3,Current - Heavy,Heavy,Regular,Fair,Good,High,166,81,273,172,Hypertension,Yes,17,Very High
+PAT00498,2022-08-17,82,Male,25.6,Current - Heavy,Heavy,Moderate,Excellent,Poor,Moderate,155,70,226,120,Asthma,Yes,11,High
+PAT00067,2023-09-26,24,Male,17.7,Current - Light,Light,Moderate,Excellent,Excellent,Moderate,148,60,187,121,Diabetes,No,6,Moderate
+PAT00158,2020-11-25,41,Male,28.1,Former,Heavy,None,Fair,Fair,High,90,90,190,158,None,No,8,High
+PAT00282,2024-06-02,45,Female,27.0,Current - Heavy,Heavy,Rare,Poor,Excellent,Moderate,130,108,184,172,Hypertension,No,11,High
+PAT00420,2024-10-05,68,Male,27.4,Current - Light,Heavy,Intensive,Poor,Fair,Moderate,120,83,242,157,Asthma,Yes,14,Very High
+PAT00313,2024-06-18,27,Male,19.6,Former,Heavy,Rare,Poor,Fair,High,145,65,236,168,Arthritis,Yes,12,High
+PAT00218,2021-09-09,54,Female,20.6,Current - Heavy,Heavy,None,Good,Excellent,Moderate,110,85,282,97,Heart Disease,Yes,11,High
+PAT00178,2021-02-19,69,Male,31.3,Former,Moderate,Rare,Excellent,Excellent,Low,152,101,252,178,None,No,12,High
+PAT00218,2022-11-25,32,Female,25.8,Current - Light,Heavy,Moderate,Good,Poor,Moderate,144,94,248,90,Diabetes,Yes,10,High
+PAT00173,2022-11-22,43,Female,29.4,Current - Heavy,None,Regular,Good,Poor,Low,152,89,243,82,Asthma,No,10,High
+PAT00130,2024-10-09,61,Female,26.1,Never,Moderate,Rare,Good,Good,Very High,92,88,233,146,Arthritis,Yes,11,High
+PAT00306,2021-04-02,63,Male,26.1,Current - Heavy,Light,Rare,Poor,Poor,Moderate,108,100,276,180,Hypertension,No,15,Very High
+PAT00498,2025-02-19,49,Female,30.7,Never,None,Moderate,Good,Poor,Moderate,167,106,175,167,Asthma,Yes,10,High
+PAT00173,2023-05-21,72,Female,23.4,Never,Light,Moderate,Poor,Excellent,Low,114,96,216,147,Asthma,Yes,9,High
+PAT00356,2020-07-19,65,Female,26.5,Former,Heavy,Moderate,Fair,Good,Low,167,85,196,142,Hypertension,Yes,12,High
+PAT00209,2022-04-28,20,Female,23.7,Former,Moderate,Moderate,Excellent,Good,Low,118,74,154,153,Diabetes,Yes,6,Moderate
+PAT00314,2023-03-24,76,Female,23.8,Current - Light,Heavy,Regular,Poor,Good,High,130,82,263,108,Heart Disease,No,11,High
+PAT00108,2025-12-20,39,Female,24.5,Current - Light,Heavy,None,Poor,Excellent,High,100,73,285,164,Hypertension,No,13,Very High
+PAT00385,2023-07-15,75,Female,27.1,Never,Light,Intensive,Fair,Good,Very High,143,108,155,142,Asthma,No,12,High
+PAT00121,2024-03-17,34,Female,23.6,Never,None,Regular,Fair,Fair,Low,163,78,195,110,Arthritis,No,5,Moderate
+PAT00282,2024-07-31,63,Male,32.3,Current - Heavy,Moderate,Moderate,Good,Poor,High,154,94,286,170,Diabetes,No,16,Very High
+PAT00254,2025-03-15,54,Female,21.5,Former,Light,Regular,Good,Poor,High,149,101,194,95,Heart Disease,No,7,Moderate
+PAT00499,2024-09-09,70,Male,25.1,Never,Light,Rare,Poor,Excellent,Low,131,99,213,112,Asthma,No,8,High
+PAT00351,2021-01-07,65,Male,23.8,Current - Heavy,Light,Rare,Excellent,Good,Moderate,112,90,201,152,Diabetes,No,10,High
+PAT00034,2020-05-06,44,Female,33.2,Current - Heavy,Light,Intensive,Excellent,Fair,Moderate,149,92,178,154,Diabetes,Yes,12,High
+PAT00237,2020-10-13,18,Male,27.0,Current - Heavy,Heavy,Regular,Poor,Excellent,High,158,67,286,76,Heart Disease,No,13,Very High
+PAT00424,2020-09-01,55,Female,31.2,Never,Moderate,Regular,Excellent,Excellent,Low,103,69,217,98,Arthritis,Yes,6,Moderate
+PAT00188,2024-08-18,61,Male,18.6,Former,Heavy,Rare,Good,Poor,High,172,104,168,187,Arthritis,No,11,High
+PAT00386,2022-09-29,51,Female,27.3,Current - Light,Heavy,Moderate,Excellent,Good,High,166,62,185,107,Asthma,No,9,High
+PAT00014,2022-06-24,65,Female,30.4,Current - Light,Moderate,Rare,Good,Excellent,Very High,176,78,189,102,Diabetes,No,13,Very High
+PAT00440,2024-04-22,50,Male,26.4,Never,Light,Intensive,Good,Fair,Low,123,83,280,173,Heart Disease,Yes,9,High
+PAT00498,2023-11-10,37,Female,31.3,Current - Light,Heavy,Regular,Fair,Excellent,Moderate,151,117,247,73,Arthritis,Yes,12,High
+PAT00176,2022-07-09,57,Male,23.4,Former,Light,Moderate,Poor,Fair,High,153,89,295,73,Arthritis,Yes,12,High
+PAT00380,2022-04-09,64,Male,33.0,Current - Heavy,None,Moderate,Poor,Good,Low,97,88,295,133,Diabetes,No,15,Very High
+PAT00409,2022-01-18,49,Male,37.5,Current - Heavy,Light,None,Good,Good,Low,114,106,166,103,Asthma,No,10,High
+PAT00032,2022-04-30,47,Male,24.2,Current - Heavy,Heavy,None,Poor,Good,Low,115,90,179,183,None,No,10,High
+PAT00102,2021-02-13,45,Female,23.8,Current - Light,None,Intensive,Excellent,Poor,Very High,172,72,300,186,None,No,10,High
+PAT00387,2024-07-25,52,Female,33.3,Former,Moderate,Intensive,Excellent,Good,High,123,115,286,133,Hypertension,No,11,High
+PAT00348,2025-08-22,57,Female,33.9,Never,Light,Regular,Poor,Good,Very High,153,70,195,86,Heart Disease,No,11,High
+PAT00049,2024-12-20,61,Male,23.4,Former,None,Rare,Fair,Good,High,130,109,285,190,None,No,10,High
+PAT00475,2022-05-11,37,Female,23.9,Former,Light,Regular,Fair,Fair,Moderate,131,93,271,176,Arthritis,No,8,High
+PAT00118,2022-12-12,78,Female,24.6,Current - Light,Light,Moderate,Good,Good,High,147,79,258,170,Heart Disease,Yes,14,Very High
+PAT00391,2024-07-13,25,Female,19.3,Current - Light,Light,Regular,Good,Poor,Moderate,116,102,215,145,Hypertension,Yes,7,Moderate
+PAT00165,2024-10-17,66,Female,21.4,Former,Light,Intensive,Excellent,Good,Low,99,75,191,153,Arthritis,No,7,Moderate
+PAT00483,2025-04-08,23,Female,21.0,Current - Heavy,Light,Moderate,Excellent,Poor,Low,97,100,237,140,Asthma,No,7,Moderate
+PAT00225,2023-03-10,32,Female,22.2,Former,None,Moderate,Excellent,Fair,Moderate,165,79,296,121,Asthma,Yes,8,High
+PAT00225,2022-10-01,59,Female,25.8,Current - Light,None,Rare,Poor,Good,High,147,107,204,117,Hypertension,No,12,High
+PAT00117,2025-03-02,64,Female,27.2,Former,Moderate,Moderate,Poor,Fair,Low,172,86,259,171,Heart Disease,Yes,15,Very High
+PAT00426,2025-12-04,25,Female,33.8,Never,Heavy,None,Good,Excellent,High,163,81,167,89,Asthma,Yes,10,High
+PAT00499,2021-04-05,38,Male,21.0,Current - Heavy,Light,None,Excellent,Good,Very High,147,116,188,154,None,Yes,12,High
+PAT00332,2023-10-23,76,Female,30.9,Never,Heavy,Intensive,Good,Poor,Very High,92,60,207,152,Heart Disease,Yes,11,High
+PAT00133,2022-07-01,59,Female,24.9,Former,Moderate,Intensive,Fair,Fair,Moderate,116,79,196,95,None,Yes,4,Moderate
+PAT00400,2021-06-05,62,Male,25.8,Current - Light,Moderate,Rare,Fair,Fair,High,110,87,219,129,Diabetes,No,12,High
+PAT00014,2021-07-16,74,Male,29.4,Current - Heavy,None,Regular,Fair,Excellent,Low,147,88,252,120,Diabetes,No,13,Very High
+PAT00303,2021-05-25,29,Male,20.4,Never,Light,Rare,Poor,Excellent,High,130,86,198,123,None,No,4,Moderate
+PAT00245,2022-11-11,83,Male,27.9,Current - Heavy,None,None,Excellent,Excellent,Very High,102,82,242,149,None,No,14,Very High
+PAT00485,2023-05-16,47,Male,26.8,Current - Heavy,Heavy,None,Good,Good,Low,108,114,213,115,Asthma,Yes,10,High
+PAT00066,2025-10-25,37,Male,28.5,Current - Heavy,None,None,Fair,Good,High,169,86,190,177,Diabetes,Yes,15,Very High
+PAT00480,2025-10-25,37,Male,27.4,Current - Light,None,Rare,Poor,Excellent,Moderate,129,85,245,137,Asthma,No,12,High
+PAT00015,2020-04-15,60,Male,38.3,Current - Heavy,None,Rare,Excellent,Poor,Very High,166,106,284,113,Diabetes,Yes,16,Very High
+PAT00008,2023-11-29,46,Male,22.8,Current - Heavy,None,None,Excellent,Excellent,Very High,158,88,184,70,Hypertension,No,12,High
+PAT00241,2022-11-18,34,Female,23.3,Current - Light,None,Regular,Excellent,Fair,Moderate,118,92,183,106,Diabetes,Yes,5,Moderate
+PAT00381,2021-01-23,69,Female,22.9,Never,Light,Rare,Good,Fair,High,132,105,268,138,Diabetes,No,10,High
+PAT00217,2024-03-15,36,Male,23.2,Current - Heavy,None,Rare,Fair,Poor,Moderate,171,62,210,111,Heart Disease,No,9,High
+PAT00006,2025-05-23,79,Female,22.8,Former,Heavy,Regular,Fair,Excellent,High,159,88,180,141,Arthritis,No,11,High
+PAT00173,2022-02-02,50,Female,31.9,Current - Heavy,Heavy,None,Good,Good,Low,136,87,156,102,None,Yes,9,High
+PAT00500,2025-02-16,32,Male,33.1,Current - Light,Light,Moderate,Good,Excellent,Very High,160,120,171,199,Diabetes,No,12,High
+PAT00420,2025-09-23,42,Male,23.1,Former,None,Rare,Good,Fair,Low,158,83,288,128,Arthritis,Yes,11,High
+PAT00192,2021-10-12,30,Male,21.8,Former,Light,Intensive,Excellent,Fair,High,96,120,252,145,Heart Disease,No,8,High
+PAT00458,2025-05-05,77,Female,28.4,Former,Moderate,None,Poor,Good,High,116,119,167,85,Heart Disease,Yes,12,High
+PAT00074,2025-05-23,38,Male,23.2,Current - Heavy,Light,Regular,Excellent,Fair,Moderate,134,64,207,140,Diabetes,No,7,Moderate
+PAT00064,2021-09-13,44,Female,29.2,Former,Moderate,Moderate,Poor,Poor,High,157,66,270,129,Arthritis,No,13,Very High
+PAT00153,2021-05-26,76,Male,27.0,Never,Moderate,Moderate,Poor,Excellent,High,104,100,269,179,Asthma,Yes,13,Very High
+PAT00449,2025-06-18,55,Male,18.4,Never,None,Intensive,Good,Fair,Very High,179,87,257,84,Arthritis,Yes,10,High
+PAT00443,2023-02-21,53,Female,33.7,Current - Light,Heavy,Moderate,Good,Poor,Low,102,105,274,132,Asthma,No,11,High
+PAT00114,2024-11-11,52,Male,35.0,Current - Heavy,Heavy,Intensive,Excellent,Poor,Low,165,113,175,94,None,Yes,9,High
+PAT00185,2024-09-23,68,Male,22.9,Current - Light,Heavy,Regular,Poor,Excellent,Very High,175,118,156,125,Asthma,Yes,13,Very High
+PAT00013,2023-09-09,30,Female,24.1,Current - Heavy,None,Regular,Good,Good,High,135,75,220,184,None,No,6,Moderate
+PAT00235,2022-12-13,38,Male,27.4,Current - Light,Heavy,Moderate,Fair,Excellent,Low,132,82,287,128,Hypertension,No,10,High
+PAT00052,2021-01-05,69,Female,27.7,Current - Heavy,Light,Regular,Fair,Good,Very High,134,81,262,162,Diabetes,Yes,16,Very High
+PAT00166,2020-03-06,32,Male,29.3,Current - Light,Moderate,Intensive,Fair,Excellent,Low,115,65,173,173,Hypertension,Yes,9,High
+PAT00367,2023-10-25,63,Female,36.1,Former,Heavy,None,Good,Poor,High,118,88,160,132,Asthma,Yes,13,Very High
+PAT00342,2023-01-26,21,Female,25.1,Former,Light,Rare,Fair,Excellent,Moderate,108,60,225,132,None,No,6,Moderate
+PAT00430,2024-12-02,71,Male,22.0,Current - Heavy,Light,Intensive,Excellent,Excellent,High,180,110,243,137,Heart Disease,No,14,Very High
+PAT00187,2022-08-19,58,Female,19.1,Never,Light,Moderate,Fair,Fair,Low,154,105,271,150,None,Yes,9,High
+PAT00369,2023-11-27,46,Female,22.3,Current - Light,None,Regular,Excellent,Excellent,Very High,98,70,155,184,Asthma,Yes,10,High
+PAT00459,2023-11-24,79,Male,25.8,Never,Moderate,None,Good,Good,Low,166,91,260,104,Heart Disease,Yes,12,High
+PAT00339,2025-01-25,57,Female,35.0,Current - Light,Light,Intensive,Excellent,Fair,High,90,99,163,161,Asthma,Yes,11,High
+PAT00397,2020-10-17,26,Female,23.4,Former,Light,Rare,Fair,Fair,Low,173,119,276,100,Hypertension,Yes,10,High
+PAT00049,2024-07-10,67,Female,27.1,Current - Heavy,Heavy,Rare,Good,Fair,Low,129,82,195,180,Hypertension,No,11,High
+PAT00047,2022-01-25,51,Female,25.9,Former,Light,Moderate,Poor,Good,Very High,102,93,215,75,Asthma,Yes,10,High
+PAT00286,2020-08-30,65,Male,31.9,Former,None,Intensive,Poor,Poor,High,139,79,157,165,None,Yes,11,High
+PAT00097,2025-08-02,41,Male,38.6,Current - Light,None,Rare,Good,Fair,Very High,180,114,195,199,Diabetes,No,13,Very High
+PAT00016,2020-06-07,33,Female,23.3,Current - Light,None,Moderate,Fair,Fair,Low,153,72,189,156,Heart Disease,No,9,High
+PAT00402,2025-01-08,32,Male,23.6,Current - Light,Light,Moderate,Fair,Fair,Very High,114,110,253,80,Hypertension,Yes,10,High
+PAT00470,2025-05-21,30,Male,31.2,Current - Light,Heavy,Intensive,Fair,Good,High,107,88,200,144,Arthritis,No,10,High
+PAT00207,2024-11-17,66,Male,29.4,Current - Heavy,None,Regular,Poor,Good,Very High,168,84,228,197,Hypertension,Yes,17,Very High
+PAT00271,2020-06-19,42,Male,35.2,Current - Light,Light,Moderate,Poor,Poor,Low,128,84,198,160,Asthma,Yes,11,High
+PAT00422,2024-11-11,83,Male,28.9,Current - Light,None,Rare,Poor,Excellent,Moderate,118,105,231,88,Arthritis,Yes,11,High
+PAT00254,2022-04-26,19,Male,24.2,Current - Heavy,Light,None,Good,Poor,Moderate,174,112,234,115,Heart Disease,Yes,10,High
+PAT00191,2024-07-04,23,Male,29.0,Former,Light,Intensive,Good,Excellent,High,116,120,219,174,Arthritis,Yes,8,High
+PAT00213,2024-08-21,66,Female,31.5,Former,Heavy,Moderate,Poor,Excellent,Low,179,109,264,102,Arthritis,Yes,14,Very High
+PAT00037,2021-04-13,32,Male,30.1,Current - Heavy,None,Rare,Good,Fair,High,177,105,251,142,Asthma,No,15,Very High
+PAT00146,2022-12-07,31,Male,28.5,Current - Heavy,Light,None,Excellent,Fair,Moderate,156,62,270,192,None,Yes,13,Very High
+PAT00118,2020-06-04,67,Male,31.3,Never,None,Rare,Excellent,Good,Very High,108,88,160,198,Diabetes,Yes,12,High
+PAT00372,2023-07-26,23,Male,31.8,Former,Moderate,Moderate,Fair,Good,Very High,115,117,164,170,Heart Disease,Yes,11,High
+PAT00485,2023-04-10,82,Male,32.9,Former,Light,Rare,Good,Excellent,Low,146,64,212,143,Asthma,Yes,13,Very High
+PAT00074,2023-07-24,25,Male,29.2,Never,Heavy,Intensive,Poor,Fair,High,137,62,186,96,Arthritis,Yes,7,Moderate
+PAT00004,2024-04-10,18,Male,25.2,Current - Heavy,None,Rare,Poor,Poor,Low,173,112,271,168,Hypertension,No,15,Very High
+PAT00231,2022-08-31,80,Female,26.7,Current - Light,Heavy,Regular,Fair,Excellent,High,118,69,223,114,Heart Disease,No,9,High
+PAT00452,2021-10-18,65,Male,32.0,Current - Heavy,Moderate,Rare,Poor,Excellent,Very High,180,116,288,128,Heart Disease,Yes,21,Very High
+PAT00431,2023-12-16,44,Female,21.9,Current - Heavy,Heavy,Regular,Excellent,Excellent,Very High,149,83,236,153,Arthritis,No,11,High
+PAT00069,2025-12-10,44,Male,27.8,Former,Light,Intensive,Fair,Good,Very High,160,115,254,165,Arthritis,No,13,Very High
+PAT00110,2024-05-28,36,Female,24.0,Never,Heavy,Moderate,Excellent,Poor,Moderate,117,81,291,110,Arthritis,No,4,Moderate
+PAT00480,2025-10-20,73,Male,26.1,Current - Heavy,None,Rare,Excellent,Fair,High,177,96,189,172,Asthma,Yes,15,Very High
+PAT00078,2024-08-11,58,Female,32.4,Former,Light,Regular,Good,Poor,Low,98,65,155,72,None,No,4,Moderate
+PAT00437,2021-01-03,58,Female,27.0,Former,Light,Rare,Good,Poor,High,169,118,230,184,Heart Disease,No,11,High
+PAT00361,2021-12-18,55,Female,26.2,Never,Light,Rare,Fair,Excellent,Low,158,118,254,110,Asthma,No,10,High
+PAT00359,2023-02-25,49,Male,19.2,Former,Heavy,None,Poor,Fair,Very High,150,84,272,113,None,No,12,High
+PAT00477,2024-12-11,41,Female,29.7,Never,Heavy,Intensive,Good,Good,Low,137,64,195,104,Asthma,No,3,Low
+PAT00347,2024-05-31,37,Male,29.2,Former,Moderate,Moderate,Poor,Good,Very High,92,99,256,113,Hypertension,No,10,High
+PAT00099,2025-10-03,53,Male,36.8,Current - Heavy,Moderate,Rare,Poor,Fair,High,123,88,260,156,None,No,14,Very High
+PAT00384,2025-02-19,28,Female,24.5,Never,Light,Intensive,Poor,Poor,High,138,72,270,167,Heart Disease,Yes,10,High
+PAT00356,2023-01-12,66,Female,27.1,Current - Light,Heavy,Regular,Good,Fair,High,123,95,199,195,Hypertension,No,10,High
+PAT00043,2025-01-16,28,Female,27.2,Never,None,Rare,Poor,Fair,Low,112,83,166,109,Asthma,Yes,7,Moderate
+PAT00399,2020-12-23,27,Male,33.9,Never,Moderate,Intensive,Poor,Fair,Very High,170,115,234,97,Asthma,Yes,11,High
+PAT00029,2021-07-22,43,Male,25.5,Former,None,None,Poor,Excellent,Moderate,116,63,170,169,Hypertension,Yes,11,High
+PAT00244,2022-03-19,81,Male,27.4,Current - Heavy,Moderate,Intensive,Poor,Excellent,Moderate,154,60,170,115,Diabetes,No,12,High
+PAT00074,2022-02-14,33,Male,29.0,Former,Light,Moderate,Fair,Fair,Very High,171,113,225,175,Asthma,No,11,High
+PAT00112,2024-10-13,50,Female,26.9,Former,None,Moderate,Good,Fair,Low,97,64,276,158,Arthritis,Yes,10,High
+PAT00318,2024-10-27,28,Female,23.8,Never,None,Moderate,Good,Poor,High,130,88,241,192,Hypertension,No,7,Moderate
+PAT00154,2025-06-26,58,Male,27.0,Former,Light,None,Good,Excellent,Very High,149,80,253,188,Heart Disease,No,15,Very High
+PAT00079,2021-08-04,67,Female,31.4,Never,Light,Moderate,Excellent,Fair,Very High,136,60,261,114,Diabetes,Yes,11,High
+PAT00112,2021-01-23,20,Female,20.9,Current - Heavy,Light,Moderate,Good,Fair,Low,153,85,190,147,Asthma,No,9,High
+PAT00117,2022-02-17,80,Female,26.7,Current - Heavy,Heavy,Rare,Excellent,Poor,High,103,64,232,192,Asthma,No,12,High
+PAT00073,2022-08-21,84,Female,22.5,Former,Heavy,Regular,Poor,Good,Moderate,133,100,229,179,Asthma,Yes,10,High
+PAT00307,2021-06-14,85,Female,32.0,Current - Light,Moderate,Rare,Good,Excellent,Low,92,88,244,176,Diabetes,Yes,14,Very High
+PAT00484,2023-08-29,47,Female,18.4,Current - Heavy,Moderate,Intensive,Good,Good,Moderate,106,80,296,128,Arthritis,Yes,11,High
+PAT00417,2022-10-17,80,Female,23.2,Never,Moderate,Intensive,Poor,Excellent,Moderate,169,80,170,195,Heart Disease,No,10,High
+PAT00035,2025-01-15,67,Male,27.9,Current - Light,Light,Moderate,Poor,Excellent,Moderate,118,100,150,153,Hypertension,No,11,High
+PAT00288,2021-08-21,52,Female,33.8,Current - Heavy,Moderate,Intensive,Fair,Fair,Low,127,106,165,119,Asthma,No,9,High
+PAT00128,2024-03-20,72,Male,25.7,Current - Light,Moderate,Rare,Fair,Good,Low,93,101,257,90,Hypertension,No,11,High
+PAT00398,2021-08-27,75,Female,23.2,Former,Heavy,Moderate,Poor,Good,Very High,125,72,266,142,Diabetes,Yes,14,Very High
+PAT00166,2020-03-10,33,Male,35.4,Current - Light,Heavy,Moderate,Fair,Good,Very High,160,61,261,152,Heart Disease,Yes,16,Very High
+PAT00168,2020-05-21,54,Female,18.8,Never,None,Rare,Excellent,Poor,Low,107,69,176,111,Arthritis,Yes,5,Moderate
+PAT00048,2024-01-15,63,Female,15.0,Never,Heavy,Moderate,Poor,Excellent,Very High,159,63,284,176,Arthritis,No,14,Very High
+PAT00356,2021-09-26,29,Male,28.2,Current - Heavy,Light,None,Good,Fair,Moderate,97,101,292,76,None,Yes,9,High
+PAT00246,2020-06-22,23,Male,23.5,Former,Light,Rare,Good,Good,Very High,171,102,251,74,Asthma,No,10,High
+PAT00253,2020-04-06,71,Male,20.9,Never,Light,Intensive,Poor,Fair,Moderate,164,91,151,159,Arthritis,Yes,11,High
+PAT00298,2024-02-16,83,Male,29.5,Current - Heavy,Light,Rare,Poor,Good,High,161,83,280,169,Diabetes,Yes,19,Very High
+PAT00387,2022-11-15,60,Male,27.2,Current - Light,Moderate,Regular,Poor,Good,Very High,93,88,281,173,Diabetes,Yes,15,Very High
+PAT00058,2020-06-19,67,Male,23.2,Former,Light,Intensive,Good,Fair,High,136,89,163,128,Asthma,No,8,High
+PAT00112,2025-09-24,21,Female,19.6,Never,Light,Rare,Good,Fair,Very High,139,106,233,187,Heart Disease,Yes,8,High
+PAT00472,2025-07-06,79,Female,30.4,Former,None,Intensive,Poor,Poor,Low,169,63,152,140,None,No,11,High
+PAT00228,2024-04-11,38,Male,29.3,Never,Moderate,Rare,Fair,Excellent,High,99,77,256,75,Hypertension,Yes,9,High
+PAT00461,2021-05-06,56,Male,25.5,Current - Light,Heavy,Rare,Poor,Poor,Very High,112,60,178,92,Arthritis,Yes,12,High
+PAT00234,2023-01-23,52,Male,35.2,Current - Heavy,None,Rare,Fair,Poor,Very High,176,84,157,79,Heart Disease,No,14,Very High
+PAT00426,2025-03-22,70,Male,20.6,Never,None,None,Good,Good,Very High,115,111,218,76,Arthritis,No,8,High
+PAT00494,2022-02-09,48,Female,18.4,Never,None,Intensive,Excellent,Excellent,Moderate,96,78,243,92,Asthma,No,5,Moderate
+PAT00234,2025-04-19,38,Female,22.5,Current - Light,Light,Moderate,Good,Excellent,Moderate,164,85,245,189,Hypertension,No,10,High
+PAT00076,2025-07-18,70,Female,25.8,Current - Heavy,None,Intensive,Good,Fair,High,135,101,269,185,Asthma,Yes,14,Very High
+PAT00456,2020-06-24,61,Male,27.2,Current - Light,Light,Intensive,Fair,Fair,Very High,100,112,257,98,Asthma,Yes,13,Very High
+PAT00267,2021-03-01,18,Female,24.8,Former,Light,Moderate,Excellent,Poor,High,137,95,251,170,Diabetes,No,8,High
+PAT00384,2024-07-29,31,Male,27.8,Current - Heavy,Light,Rare,Poor,Poor,Very High,108,118,168,148,Diabetes,No,13,Very High
+PAT00156,2022-05-07,30,Male,19.7,Never,None,None,Good,Poor,Moderate,113,112,168,87,Hypertension,No,4,Moderate
+PAT00487,2021-05-02,72,Female,33.2,Current - Heavy,None,Intensive,Good,Good,Very High,137,73,227,179,Asthma,No,13,Very High
+PAT00326,2020-06-20,80,Male,25.6,Current - Heavy,Moderate,Moderate,Poor,Good,Very High,139,108,287,95,Heart Disease,No,14,Very High
+PAT00486,2025-07-01,21,Female,31.6,Never,Heavy,None,Excellent,Good,Low,100,75,174,186,Heart Disease,No,8,High
+PAT00124,2025-04-06,22,Female,27.7,Current - Light,Heavy,Rare,Excellent,Poor,Low,177,68,157,199,Heart Disease,Yes,11,High
+PAT00258,2022-01-12,77,Female,28.3,Current - Heavy,None,Moderate,Poor,Excellent,Moderate,147,78,191,80,Hypertension,No,12,High
+PAT00219,2021-03-25,37,Male,28.8,Former,Heavy,Regular,Fair,Poor,Very High,173,117,195,166,None,No,9,High
+PAT00094,2022-07-04,61,Female,28.2,Former,Heavy,None,Poor,Fair,Moderate,106,107,294,76,Heart Disease,No,12,High
+PAT00188,2024-10-27,20,Female,29.2,Never,Heavy,Regular,Poor,Good,Very High,161,104,258,87,None,Yes,10,High
+PAT00135,2024-01-04,78,Female,32.6,Former,Light,None,Poor,Fair,Low,163,71,200,184,Arthritis,No,15,Very High
+PAT00286,2022-12-13,79,Male,27.0,Former,Heavy,None,Poor,Fair,Moderate,108,79,184,170,None,No,10,High
+PAT00031,2025-09-20,19,Male,29.5,Current - Light,None,Moderate,Fair,Good,Moderate,151,111,204,118,Arthritis,No,8,High
+PAT00245,2025-05-14,45,Male,25.6,Former,Heavy,Intensive,Poor,Fair,Moderate,155,69,167,192,Asthma,Yes,11,High
+PAT00290,2021-11-05,49,Female,33.2,Current - Light,Light,Moderate,Excellent,Poor,Very High,95,115,232,171,None,Yes,10,High
+PAT00344,2024-03-10,68,Female,22.6,Former,Light,Regular,Excellent,Fair,Moderate,166,93,223,197,None,No,7,Moderate
+PAT00308,2020-05-06,71,Male,35.0,Never,Light,None,Good,Good,Very High,125,89,237,147,Asthma,No,12,High
+PAT00471,2023-06-16,78,Female,25.8,Current - Heavy,Light,Regular,Good,Poor,Very High,133,94,282,86,Hypertension,No,12,High
+PAT00479,2023-01-16,54,Male,18.8,Current - Light,Moderate,Rare,Fair,Good,High,114,112,235,175,Hypertension,No,10,High
+PAT00307,2024-10-02,42,Male,26.6,Current - Light,Light,Moderate,Good,Fair,Very High,164,93,194,100,Arthritis,No,9,High
+PAT00327,2022-10-08,44,Female,22.6,Former,Heavy,Moderate,Fair,Excellent,Very High,124,119,295,187,Asthma,No,10,High
+PAT00075,2022-11-09,27,Female,30.2,Never,Heavy,Intensive,Excellent,Poor,Low,114,111,215,196,Heart Disease,No,6,Moderate
+PAT00262,2024-09-18,43,Female,22.7,Never,Heavy,Regular,Poor,Excellent,Very High,139,80,180,105,Diabetes,Yes,7,Moderate
+PAT00186,2020-08-11,23,Male,23.8,Current - Light,None,Intensive,Good,Fair,Low,177,87,202,80,Arthritis,Yes,7,Moderate
+PAT00006,2021-04-01,61,Female,16.6,Current - Light,Heavy,Rare,Fair,Fair,High,160,82,210,108,None,No,9,High
+PAT00391,2022-06-19,39,Female,23.7,Former,None,Rare,Poor,Good,Very High,105,66,213,174,Diabetes,Yes,11,High
+PAT00236,2021-11-09,40,Male,15.0,Current - Light,None,None,Fair,Good,Very High,164,115,248,184,Diabetes,Yes,16,Very High
+PAT00052,2020-12-01,70,Female,18.1,Current - Heavy,Light,Regular,Excellent,Poor,High,116,116,275,181,Asthma,No,12,High
+PAT00165,2020-03-25,81,Female,29.8,Current - Heavy,Light,Moderate,Fair,Poor,Very High,111,110,253,123,Diabetes,No,13,Very High
+PAT00181,2024-07-17,53,Male,29.9,Current - Light,Light,Regular,Excellent,Poor,Moderate,172,104,166,185,Arthritis,Yes,11,High
+PAT00200,2023-11-14,64,Female,28.1,Never,Heavy,Regular,Excellent,Excellent,Low,145,76,239,128,Hypertension,No,9,High
+PAT00467,2022-11-30,79,Male,21.2,Former,Light,Intensive,Fair,Poor,Very High,136,63,208,93,Arthritis,Yes,9,High
+PAT00048,2020-07-24,50,Male,25.8,Current - Light,Heavy,Rare,Good,Fair,Very High,125,115,197,128,Heart Disease,No,11,High
+PAT00086,2025-11-02,26,Male,26.0,Never,None,Intensive,Fair,Good,Very High,144,117,192,130,None,Yes,9,High
+PAT00309,2020-11-11,26,Male,20.2,Current - Light,Light,Intensive,Poor,Excellent,High,112,69,286,117,Diabetes,Yes,10,High
+PAT00167,2021-12-04,52,Male,33.5,Never,Heavy,Rare,Fair,Poor,Very High,109,114,183,131,Asthma,No,11,High
+PAT00294,2023-02-17,77,Male,30.4,Current - Heavy,Light,None,Fair,Fair,Low,98,84,184,70,Hypertension,No,12,High
+PAT00271,2025-06-29,68,Female,24.9,Current - Heavy,Moderate,Intensive,Excellent,Good,Very High,111,92,277,102,None,Yes,10,High
+PAT00038,2024-02-14,56,Male,26.1,Current - Heavy,Heavy,Regular,Good,Good,Low,130,91,200,74,Diabetes,No,7,Moderate
+PAT00397,2021-08-25,75,Male,27.0,Current - Light,Heavy,Rare,Fair,Poor,Moderate,146,76,274,172,Heart Disease,No,15,Very High
+PAT00191,2022-04-18,77,Male,15.8,Current - Heavy,None,Rare,Fair,Poor,High,137,63,239,189,Heart Disease,No,12,High
+PAT00040,2023-04-19,63,Female,24.8,Never,Heavy,None,Good,Good,Moderate,129,119,279,112,None,Yes,7,Moderate
+PAT00075,2023-01-09,25,Male,22.6,Former,Moderate,None,Excellent,Excellent,High,168,89,238,153,Hypertension,No,10,High
+PAT00027,2025-10-18,33,Female,21.0,Current - Heavy,Heavy,Intensive,Poor,Poor,Moderate,138,81,262,138,Diabetes,Yes,12,High
+PAT00391,2022-03-15,29,Female,24.6,Current - Light,Heavy,Rare,Poor,Poor,High,91,68,199,177,Asthma,Yes,11,High
+PAT00214,2021-09-13,72,Female,35.0,Former,None,None,Fair,Poor,High,151,110,166,126,Heart Disease,Yes,14,Very High
+PAT00474,2025-07-14,32,Male,29.2,Current - Heavy,Moderate,Intensive,Good,Excellent,High,163,95,290,154,Arthritis,No,13,Very High
+PAT00270,2021-09-29,84,Female,23.1,Former,Light,None,Excellent,Excellent,High,132,120,280,146,Heart Disease,No,12,High
+PAT00027,2023-05-15,50,Male,28.9,Former,Light,Rare,Fair,Excellent,Moderate,102,104,288,199,Hypertension,No,11,High

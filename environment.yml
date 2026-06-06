@@ -1,0 +1,14 @@
+name: health_risk_mining
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=1.3
+  - numpy>=1.21
+  - scikit-learn>=1.0
+  - matplotlib>=3.4
+  - seaborn>=0.11
+  - pip
+  - pip:
+      - mlxtend>=0.19
