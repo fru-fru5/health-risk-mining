@@ -56,11 +56,9 @@ st.markdown("""
 def load_and_prepare():
     df = pd.read_csv('data/health_risk_assessment.csv')
 
-    # Handle missing values
-    df['AlcoholConsumption'] = df['AlcoholConsumption'].fillna(
-        df['AlcoholConsumption'].mode()[0])
-    df['ExerciseFrequency']  = df['ExerciseFrequency'].fillna(
-        df['ExerciseFrequency'].mode()[0])
+    # Handle missing values (includes string 'None' in categorical columns)
+    for col in ['AlcoholConsumption', 'ExerciseFrequency']:
+        df[col] = df[col].replace('None', np.nan).fillna(df[col].mode()[0])
     df['ExistingCondition']  = df['ExistingCondition'].fillna('None')
 
     # Feature engineering
@@ -208,29 +206,27 @@ def get_matching_rules(patient_dict, risk_rules, df, top_n=5):
 
     age_g  = 'Young' if age<=40 else 'MiddleAge' if age<=55 else 'Senior' if age<=70 else 'Elderly'
     bmi_c  = 'Underweight' if bmi<18.5 else 'Normal' if bmi<25 else 'Overweight' if bmi<30 else 'Obese'
-    bp_c   = 'High BP' if (sbp>140 or dbp>90) else 'Normal BP'
+    bp_c   = 'High_BP' if (sbp>140 or dbp>90) else 'Normal_BP'
     chol_c = 'Desirable' if chol<200 else 'Borderline' if chol<240 else 'High'
     sug_c  = 'Normal' if sugar<100 else 'Prediabetic' if sugar<126 else 'Diabetic'
 
-    patient_tags = {
-        age_g, bmi_c, bp_c, chol_c, sug_c,
-        patient_dict.get('SmokingStatus',''),
-        patient_dict.get('AlcoholConsumption',''),
-        patient_dict.get('ExerciseFrequency',''),
-        patient_dict.get('DietQuality',''),
-        patient_dict.get('SleepQuality',''),
-        patient_dict.get('StressLevel',''),
-        patient_dict.get('ExistingCondition','None'),
-        patient_dict.get('FamilyHistory',''),
+    patient_dummy_items = {
+        f'AgeGroup_{age_g}', f'BMI_Category_{bmi_c}', f'BP_Category_{bp_c}',
+        f'Chol_Category_{chol_c}', f'Sugar_Category_{sug_c}',
+        f'SmokingStatus_{patient_dict.get("SmokingStatus","")}',
+        f'AlcoholConsumption_{patient_dict.get("AlcoholConsumption","")}',
+        f'ExerciseFrequency_{patient_dict.get("ExerciseFrequency","")}',
+        f'DietQuality_{patient_dict.get("DietQuality","")}',
+        f'SleepQuality_{patient_dict.get("SleepQuality","")}',
+        f'StressLevel_{patient_dict.get("StressLevel","")}',
+        f'ExistingCondition_{patient_dict.get("ExistingCondition","None")}',
+        f'FamilyHistory_{patient_dict.get("FamilyHistory","")}',
     }
-    patient_tags = {t.replace(' ','_') for t in patient_tags}
 
     matches = []
     for _, row in risk_rules.iterrows():
-        ant_items = {str(i).split('_',1)[-1].replace('_',' ')
-                     for i in row['antecedents']}
-        overlap = sum(1 for item in ant_items
-                      if any(item.lower() in tag.lower() for tag in patient_tags))
+        ant_items = set(row['antecedents'])
+        overlap = len(ant_items & patient_dummy_items)
         if overlap >= 1:
             matches.append({**row, 'overlap': overlap})
 

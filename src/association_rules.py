@@ -31,7 +31,7 @@ def run_association_mining(df: pd.DataFrame):
 
     # ── Association rules ─────────────────────────────────────────────────────
     rules = association_rules(frequent, metric='lift',
-                              min_threshold=1.5, num_itemsets=len(frequent))
+                              min_threshold=1.5)
     rules = rules[rules['confidence'] >= 0.60].sort_values('lift', ascending=False)
     print(f"  Rules (lift≥1.5, conf≥0.60): {len(rules)}")
 
