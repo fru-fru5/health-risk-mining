@@ -3,4 +3,4 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-streamlit
+streamlit==1.28.0
